@@ -6,5 +6,5 @@
  */
 
 // Add SCSS sources
-$GLOBALS['TC_SOURCES']['configFiles'][] = 'bundles/ContaoThemeManagerRealEstate/framework/scss/_config.scss';
-$GLOBALS['TC_SOURCES']['files'][]       = 'bundles/ContaoThemeManagerRealEstate/framework/scss/_realestate.scss';
+$GLOBALS['TC_SOURCES']['configFiles'][] = 'bundles/ContaoThemeManagerEstateManager/framework/scss/_config.scss';
+$GLOBALS['TC_SOURCES']['files'][]       = 'bundles/ContaoThemeManagerEstateManager/framework/scss/_realestate.scss';

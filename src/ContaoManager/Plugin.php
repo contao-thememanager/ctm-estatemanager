@@ -8,14 +8,13 @@ declare(strict_types=1);
  * (c) https://www.oveleon.de/
  */
 
-namespace ContaoThemeManager\RealEstate\ContaoManager;
+namespace ContaoThemeManager\EstateManager\ContaoManager;
 
 use Contao\CoreBundle\ContaoCoreBundle;
 use Contao\ManagerPlugin\Bundle\BundlePluginInterface;
 use Contao\ManagerPlugin\Bundle\Config\BundleConfig;
 use Contao\ManagerPlugin\Bundle\Parser\ParserInterface;
-use ContaoThemeManager\TinySlider\ContaoThemeManagerTinySlider;
-use ContaoThemeManager\RealEstate\ContaoThemeManagerRealEstate;
+use ContaoThemeManager\EstateManager\ContaoThemeManagerEstateManager;
 use ContaoThemeManager\Core\ContaoThemeManagerCore;
 
 class Plugin implements BundlePluginInterface
@@ -26,9 +25,9 @@ class Plugin implements BundlePluginInterface
     public function getBundles(ParserInterface $parser): array
     {
         return [
-            BundleConfig::create(ContaoThemeManagerRealEstate::class)
+            BundleConfig::create(ContaoThemeManagerEstateManager::class)
                 ->setLoadAfter([ContaoCoreBundle::class, ContaoThemeManagerCore::class])
-                ->setReplace(['ctm-real-estate']),
+                ->setReplace(['ctm-estatemanager']),
         ];
     }
 }
