@@ -6,5 +6,8 @@
  */
 
 // Add SCSS sources
-$GLOBALS['TC_SOURCES']['configFiles'][] = 'bundles/ContaoThemeManagerEstateManager/framework/scss/_config.scss';
-$GLOBALS['TC_SOURCES']['files'][]       = 'bundles/ContaoThemeManagerEstateManager/framework/scss/_realestate.scss';
+$GLOBALS['TC_SOURCES']['configFiles'][] = 'bundles/contaothememanagerestatemanager/framework/scss/_config.scss';
+$GLOBALS['TC_SOURCES']['files'][]       = 'bundles/contaothememanagerestatemanager/framework/scss/_realestate.scss';
+
+// Add HOOK
+$GLOBALS['TL_HOOKS']['styleManagerFindByTable'][] = array('\\ContaoThemeManager\\EstateManager\\EstateManager', 'onFindByTable');

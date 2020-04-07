@@ -15,6 +15,7 @@
   "require":{
     "php":"^5.6 || ^7.0",
     "contao/core-bundle":"^4.4",
+    "contao-estatemanager/core":"dev-master",
     "contao-thememanager/core":"dev-master || ^1.0"
   },
   "require-dev": {
