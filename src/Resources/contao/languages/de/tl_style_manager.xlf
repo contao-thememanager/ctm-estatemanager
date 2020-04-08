@@ -26,6 +26,22 @@
         <source>Select the modules that this group may be displayed for.</source>
         <target>Wählen Sie die Module aus, für die diese Gruppe angezeigt werden soll.</target>
       </trans-unit>
+      <trans-unit id="tl_style_manager.extendRealEstateExposeModule.0">
+        <source>Real estate expose modules</source>
+        <target>Immobilien Expose-Module</target>
+      </trans-unit>
+      <trans-unit id="tl_style_manager.extendRealEstateExposeModule.1">
+        <source>Provides the CSS classes in real estate expose modules.</source>
+        <target>Stellt die CSS-Klassen in Immobilien Expose-Module zur Verfügung.</target>
+      </trans-unit>
+      <trans-unit id="tl_style_manager.realEstateExposeModules.0">
+        <source>Available expose modules</source>
+        <target>Verfügbare Expose-Module</target>
+      </trans-unit>
+      <trans-unit id="tl_style_manager.realEstateExposeModules.1">
+        <source>Select the modules that this group may be displayed for.</source>
+        <target>Wählen Sie die Module aus, für die diese Gruppe angezeigt werden soll.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

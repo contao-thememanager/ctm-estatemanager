@@ -11,3 +11,4 @@ $GLOBALS['TC_SOURCES']['files'][]       = 'bundles/contaothememanagerestatemanag
 
 // Add HOOK
 $GLOBALS['TL_HOOKS']['styleManagerFindByTable'][] = array('\\ContaoThemeManager\\EstateManager\\EstateManager', 'onFindByTable');
+$GLOBALS['TL_HOOKS']['styleManagerSkipField'][]   = array('\\ContaoThemeManager\\EstateManager\\EstateManager', 'onSkipField');

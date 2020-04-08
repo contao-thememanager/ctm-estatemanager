@@ -24,8 +24,45 @@ class EstateManager
                 return StyleManagerModel::findBy(array('extendRealEstateFilter=1'), null, $arrOptions);
             case 'tl_filter_item':
                 return StyleManagerModel::findBy(array('extendRealEstateFilterItem=1'), null, $arrOptions);
+            case 'tl_expose_module':
+                return StyleManagerModel::findBy(array('extendRealEstateExposeModule=1'), null, $arrOptions);
         }
 
         return null;
+    }
+
+    /**
+     * StyleManager Support
+     *
+     * If the field has not been selected, it is skipped
+     *
+     * @param $objStyleGroups
+     * @param $objWidget
+     *
+     * @return bool Skip field
+     */
+    public function onSkipField($objStyleGroups, $objWidget)
+    {
+        if(!!$objStyleGroups->extendRealEstateFilterItem && $objWidget->strTable === 'tl_filter_item')
+        {
+            $arrFilterItems = \StringUtil::deserialize($objStyleGroups->realEstateFilterItems);
+
+            if($arrFilterItems !== null && !in_array($objWidget->activeRecord->type, $arrFilterItems))
+            {
+                return true;
+            }
+        }
+
+        if(!!$objStyleGroups->extendRealEstateExposeModule && $objWidget->strTable === 'tl_expose_module')
+        {
+            $arrModules = \StringUtil::deserialize($objStyleGroups->realEstateExposeModules);
+
+            if($arrModules !== null && !in_array($objWidget->activeRecord->type, $arrModules))
+            {
+                return true;
+            }
+        }
+
+        return false;
     }
 }
