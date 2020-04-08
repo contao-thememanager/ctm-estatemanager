@@ -1,2 +1,3 @@
-# ctm-estatemanager
-Contao EstateManager integration | Open Source Theme Manager for Contao CMS
+# EstateManager for Contao ThemeManager
+
+Integrates the [Contao EstateManager](https://github.com/contao-estatemanager) into the Contao ThemeManager.
