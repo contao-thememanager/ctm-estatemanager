@@ -3,7 +3,7 @@
 <?php $this->block('content'); ?>
 
 <?php if($this->header): ?>
-    <div class="object-expose-head grid<?=$this->styleManager->prepare('gridGutter', ['exposeHeaderGutter'])->format(' %s')?>">
+    <div class="object-expose-head grid<?=$this->styleManager->prepare('exposeHeaderArea')->format(' %s')?>">
         <div class="inside">
             <?= $this->header ?>
         </div>
@@ -11,42 +11,43 @@
 <?php endif; ?>
 
 <?php if($this->contentTop): ?>
-    <div class="object-expose-content-top grid<?=$this->styleManager->prepare('gridGutter', ['exposeContentTopGutter'])->format(' %s')?>">
+    <div class="object-expose-content-top grid<?=$this->styleManager->prepare('exposeContentTopArea')->format(' %s')?>">
         <div class="inside">
             <?= $this->contentTop ?>
         </div>
     </div>
 <?php endif; ?>
 
-<div class="object-expose-content">
-
-    <?php if($this->main): ?>
-        <div class="object-expose-main grid<?=$this->styleManager->prepare('gridGutter', ['exposeMainGutter'])->format(' %s')?>">
-            <div class="inside">
-                <?= $this->main ?>
+<div class="object-expose-content<?=$this->styleManager->prepare('exposeContentArea')->format(' %s')?>">
+    <div class="inside">
+        <?php if($this->main): ?>
+            <div class="object-expose-main grid<?=$this->styleManager->prepare('exposeMainArea')->format(' %s')?>">
+                <div class="inside">
+                    <?= $this->main ?>
+                </div>
             </div>
-        </div>
-    <?php endif; ?>
+        <?php endif; ?>
 
-    <?php if ($this->left): ?>
-        <div class="object-expose-left grid<?=$this->styleManager->prepare('gridGutter', ['exposeLeftGutter'])->format(' %s')?>">
-            <div class="inside">
-                <?= $this->left ?>
+        <?php if ($this->left): ?>
+            <div class="object-expose-left grid<?=$this->styleManager->prepare('exposeLeftArea')->format(' %s')?>">
+                <div class="inside">
+                    <?= $this->left ?>
+                </div>
             </div>
-        </div>
-    <?php endif; ?>
+        <?php endif; ?>
 
-    <?php if($this->right): ?>
-        <div class="object-expose-right grid<?=$this->styleManager->prepare('gridGutter', ['exposeRightGutter'])->format(' %s')?>">
-            <div class="inside">
-                <?= $this->right ?>
+        <?php if($this->right): ?>
+            <div class="object-expose-right grid<?=$this->styleManager->prepare('exposeRightArea')->format(' %s')?>">
+                <div class="inside">
+                    <?= $this->right ?>
+                </div>
             </div>
-        </div>
-    <?php endif; ?>
+        <?php endif; ?>
+    </div>
 </div>
 
 <?php if($this->contentBottom): ?>
-    <div class="object-expose-content-bottom grid<?=$this->styleManager->prepare('gridGutter', ['exposeContentBottomGutter'])->format(' %s')?>">
+    <div class="object-expose-content-bottom grid<?=$this->styleManager->prepare('exposeContentBottomArea')->format(' %s')?>">
         <div class="inside">
             <?= $this->contentBottom ?>
         </div>
@@ -54,7 +55,7 @@
 <?php endif; ?>
 
 <?php if($this->footer): ?>
-    <div class="object-expose-footer grid<?=$this->styleManager->prepare('gridGutter', ['exposeFooterGutter'])->format(' %s')?>">
+    <div class="object-expose-footer grid<?=$this->styleManager->prepare('exposeFooterArea')->format(' %s')?>">
         <div class="inside">
             <?= $this->footer ?>
         </div>

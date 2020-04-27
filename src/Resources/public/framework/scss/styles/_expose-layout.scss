@@ -1,0 +1,101 @@
+.object-expose-content > .inside{
+  display: flex;
+  flex-direction: column;
+}
+
+.object-expose-main {
+  order: 10;
+}
+
+.object-expose-right, .object-expose-left{
+  order: 15;
+}
+
+.right-column-order-first .object-expose-right{
+  order: 3;
+}
+
+.left-column-order-first .object-expose-left{
+  order: 3;
+}
+
+@include media-breakpoint($layout-column-small-break) {
+
+  .object-expose-content > .inside{
+    flex-direction: row;
+  }
+
+  .object-expose-main {
+    width: 100%;
+  }
+
+  .layout-content-1 .object-expose-main{
+    width: calc(100% - #{$layout-column-width-small} - #{$layout-column-gutter-small});
+  }
+
+  .layout-content-2 .object-expose-main{
+    width: calc(100% - ((#{$layout-column-width-small} + #{$layout-column-gutter-small}) * 2));
+  }
+
+  .object-expose-left {
+    order: 5;
+    width: $layout-column-width-small;
+    margin-right: $layout-column-gutter-small;
+  }
+
+  .left-column-order-first .object-expose-left{
+    order: 5;
+  }
+
+  .object-expose-right {
+    order: 15;
+    width: $layout-column-width-small;
+    margin-left: $layout-column-gutter-small;
+  }
+
+  .right-column-order-first .object-expose-right{
+    order: 15;
+  }
+}
+
+@include media-breakpoint($layout-column-medium-break) {
+
+  .object-expose-left {
+    width: $layout-column-width-medium;
+    margin-right: $layout-column-gutter-medium;
+  }
+
+  .layout-content-1 .object-expose-main{
+    width: calc(100% - #{$layout-column-width-medium} - #{$layout-column-gutter-medium});
+  }
+
+  .layout-content-2 .object-expose-main{
+    width: calc(100% - ((#{$layout-column-width-medium} + #{$layout-column-gutter-medium}) * 2));
+  }
+
+  .object-expose-right {
+    width: $layout-column-width-medium;
+    margin-left: $layout-column-gutter-medium;
+  }
+}
+
+@include media-breakpoint($layout-column-large-break) {
+
+  .object-expose-left {
+    width: $layout-column-width-large;
+    margin-right: $layout-column-gutter-large;
+  }
+
+  .layout-content-1 .object-expose-main{
+    width: calc(100% - #{$layout-column-width-large} - #{$layout-column-gutter-large});
+  }
+
+  .layout-content-2 .object-expose-main{
+    width: calc(100% - ((#{$layout-column-width-large} + #{$layout-column-gutter-large}) * 2));
+  }
+
+  .object-expose-right {
+    width: $layout-column-width-large;
+    margin-left: $layout-column-gutter-large;
+  }
+}
