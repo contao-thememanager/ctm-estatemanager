@@ -28,7 +28,7 @@ class Plugin implements BundlePluginInterface
     {
         return [
             BundleConfig::create(ContaoThemeManagerEstateManager::class)
-                ->setLoadAfter([ContaoCoreBundle::class, ContaoComponentStyleManager::class, ContaoThemeManagerCore::class, EstateManager::class])
+                ->setLoadAfter([ContaoCoreBundle::class, ContaoThemeManagerCore::class, EstateManager::class, ContaoComponentStyleManager::class])
                 ->setReplace(['ctm-estatemanager']),
         ];
     }
