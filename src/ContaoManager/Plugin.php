@@ -17,6 +17,7 @@ use Contao\ManagerPlugin\Bundle\Parser\ParserInterface;
 use ContaoThemeManager\EstateManager\ContaoThemeManagerEstateManager;
 use ContaoThemeManager\Core\ContaoThemeManagerCore;
 use ContaoEstateManager\EstateManager\EstateManager;
+use ContaoEstateManager\Project\EstateManagerProject;
 use Oveleon\ContaoComponentStyleManager\ContaoComponentStyleManager;
 
 class Plugin implements BundlePluginInterface
@@ -28,7 +29,7 @@ class Plugin implements BundlePluginInterface
     {
         return [
             BundleConfig::create(ContaoThemeManagerEstateManager::class)
-                ->setLoadAfter([ContaoCoreBundle::class, ContaoThemeManagerCore::class, EstateManager::class, ContaoComponentStyleManager::class])
+                ->setLoadAfter([ContaoCoreBundle::class, ContaoThemeManagerCore::class, EstateManager::class, EstateManagerProject::class, ContaoComponentStyleManager::class])
                 ->setReplace(['ctm-estatemanager']),
         ];
     }
