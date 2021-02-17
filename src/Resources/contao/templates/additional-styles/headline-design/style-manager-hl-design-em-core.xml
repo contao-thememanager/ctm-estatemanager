@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archives>
+  <archive identifier="headline">
+    <field title="id">483</field>
+    <field title="tstamp">1579862691</field>
+    <field title="title">Headlines</field>
+    <field title="identifier">headline</field>
+    <field title="groupAlias">Design</field>
+    <field title="sorting">130</field>
+    <children>
+      <child alias="design">
+        <field title="id">2811</field>
+        <field title="pid">483</field>
+        <field title="sorting">896</field>
+        <field title="tstamp">1586356165</field>
+        <field title="alias">design</field>
+        <field title="title">Design</field>
+        <field title="description">Here you can choose from various display options for the headings</field>
+        <field title="cssClasses">a:1:{i:0;a:2:{s:3:"key";s:15:"hl-design-lined";s:5:"value";s:4:"Line";}}</field>
+        <field title="cssClass">seperator</field>
+        <field title="chosen">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendLayout"></field>
+        <field title="extendPage"></field>
+        <field title="extendArticle"></field>
+        <field title="extendForm"></field>
+        <field title="extendFormFields"></field>
+        <field title="formFields">NULL</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:4:{i:0;s:16:"realEstateExpose";i:1;s:16:"realEstateFilter";i:2;s:14:"realEstateList";i:3;s:20:"realEstateResultList";}</field>
+        <field title="extendNews"></field>
+        <field title="extendEvents"></field>
+        <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
+      </child>
+    </children>
+  </archive>
+</archives>

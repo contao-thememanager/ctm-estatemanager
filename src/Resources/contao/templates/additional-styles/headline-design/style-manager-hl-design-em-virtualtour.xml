@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archives>
+  <archive identifier="headline">
+    <field title="id">565</field>
+    <field title="tstamp">1579862691</field>
+    <field title="title">Headlines</field>
+    <field title="identifier">headline</field>
+    <field title="groupAlias">Design</field>
+    <field title="sorting">130</field>
+    <children>
+      <child alias="design">
+        <field title="id">3331</field>
+        <field title="pid">565</field>
+        <field title="sorting">896</field>
+        <field title="tstamp">1586850319</field>
+        <field title="alias">design</field>
+        <field title="title">Design</field>
+        <field title="description">Here you can choose from various display options for the headings</field>
+        <field title="cssClasses">a:1:{i:0;a:2:{s:3:"key";s:15:"hl-design-lined";s:5:"value";s:4:"Line";}}</field>
+        <field title="cssClass">seperator</field>
+        <field title="chosen">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendLayout"></field>
+        <field title="extendPage"></field>
+        <field title="extendArticle"></field>
+        <field title="extendForm"></field>
+        <field title="extendFormFields"></field>
+        <field title="formFields">NULL</field>
+        <field title="extendContentElement"></field>
+        <field title="contentElements">NULL</field>
+        <field title="extendModule"></field>
+        <field title="modules">NULL</field>
+        <field title="extendNews"></field>
+        <field title="extendEvents"></field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:11:"virtualTour";}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
+      </child>
+    </children>
+  </archive>
+</archives>
