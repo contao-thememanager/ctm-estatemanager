@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archives>
   <archive identifier="layout">
-    <field title="id">417</field>
+    <field title="id">710</field>
     <field title="tstamp">1579772003</field>
     <field title="title">Layout</field>
     <field title="identifier">layout</field>
@@ -9,8 +9,8 @@
     <field title="sorting">128</field>
     <children>
       <child alias="boxed">
-        <field title="id">2742</field>
-        <field title="pid">417</field>
+        <field title="id">4185</field>
+        <field title="pid">710</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586857231</field>
         <field title="alias">boxed</field>
@@ -32,16 +32,16 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="headline">
-    <field title="id">418</field>
+    <field title="id">711</field>
     <field title="tstamp">1579862691</field>
     <field title="title">Headlines</field>
     <field title="identifier">headline</field>
@@ -49,8 +49,8 @@
     <field title="sorting">130</field>
     <children>
       <child alias="spacingGlobal">
-        <field title="id">2743</field>
-        <field title="pid">418</field>
+        <field title="id">4186</field>
+        <field title="pid">711</field>
         <field title="sorting">64</field>
         <field title="tstamp">1586857391</field>
         <field title="alias">spacingGlobal</field>
@@ -72,15 +72,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="spacing">
-        <field title="id">2744</field>
-        <field title="pid">418</field>
+        <field title="id">4187</field>
+        <field title="pid">711</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586857391</field>
         <field title="alias">spacing</field>
@@ -102,15 +102,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="spacingXS">
-        <field title="id">2745</field>
-        <field title="pid">418</field>
+        <field title="id">4188</field>
+        <field title="pid">711</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586857391</field>
         <field title="alias">spacingXS</field>
@@ -132,15 +132,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="spacingS">
-        <field title="id">2746</field>
-        <field title="pid">418</field>
+        <field title="id">4189</field>
+        <field title="pid">711</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586857391</field>
         <field title="alias">spacingS</field>
@@ -162,15 +162,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="spacingM">
-        <field title="id">2747</field>
-        <field title="pid">418</field>
+        <field title="id">4190</field>
+        <field title="pid">711</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586857391</field>
         <field title="alias">spacingM</field>
@@ -192,15 +192,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="spacingL">
-        <field title="id">2748</field>
-        <field title="pid">418</field>
+        <field title="id">4191</field>
+        <field title="pid">711</field>
         <field title="sorting">640</field>
         <field title="tstamp">1586857391</field>
         <field title="alias">spacingL</field>
@@ -222,15 +222,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="spacingXL">
-        <field title="id">2749</field>
-        <field title="pid">418</field>
+        <field title="id">4192</field>
+        <field title="pid">711</field>
         <field title="sorting">768</field>
         <field title="tstamp">1586857391</field>
         <field title="alias">spacingXL</field>
@@ -252,21 +252,21 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
-      <child alias="design">
-        <field title="id">2750</field>
-        <field title="pid">418</field>
-        <field title="sorting">896</field>
-        <field title="tstamp">1586857392</field>
-        <field title="alias">design</field>
-        <field title="title">Design</field>
-        <field title="description">Here you can choose from various display options for the headings</field>
-        <field title="cssClasses">a:1:{i:0;a:2:{s:3:"key";s:15:"hl-design-lined";s:5:"value";s:4:"Line";}}</field>
+      <child alias="alignment">
+        <field title="id">4352</field>
+        <field title="pid">711</field>
+        <field title="sorting">832</field>
+        <field title="tstamp">1613573446</field>
+        <field title="alias">alignment</field>
+        <field title="title">Alignment</field>
+        <field title="description"></field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:13:"hl-align-left";s:5:"value";s:4:"Left";}i:1;a:2:{s:3:"key";s:14:"hl-align-right";s:5:"value";s:5:"Right";}i:2;a:2:{s:3:"key";s:15:"hl-align-center";s:5:"value";s:6:"Center";}i:3;a:2:{s:3:"key";s:16:"hl-align-justify";s:5:"value";s:7:"Justify";}}</field>
         <field title="cssClass">seperator</field>
         <field title="chosen">1</field>
         <field title="passToTemplate">1</field>
@@ -277,21 +277,171 @@
         <field title="extendFormFields"></field>
         <field title="formFields">NULL</field>
         <field title="extendContentElement"></field>
-        <field title="contentElements">NULL</field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
+      </child>
+      <child alias="alignment-xs">
+        <field title="id">4353</field>
+        <field title="pid">711</field>
+        <field title="sorting">864</field>
+        <field title="tstamp">1613573446</field>
+        <field title="alias">alignment-xs</field>
+        <field title="title">Alignment &amp;#40;XS&amp;#41;</field>
+        <field title="description"></field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:16:"hl-align-xs-left";s:5:"value";s:4:"Left";}i:1;a:2:{s:3:"key";s:17:"hl-align-xs-right";s:5:"value";s:5:"Right";}i:2;a:2:{s:3:"key";s:18:"hl-align-xs-center";s:5:"value";s:6:"Center";}i:3;a:2:{s:3:"key";s:19:"hl-align-xs-justify";s:5:"value";s:7:"Justify";}}</field>
+        <field title="cssClass"></field>
+        <field title="chosen">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendLayout"></field>
+        <field title="extendPage"></field>
+        <field title="extendArticle"></field>
+        <field title="extendForm"></field>
+        <field title="extendFormFields"></field>
+        <field title="formFields">NULL</field>
+        <field title="extendContentElement"></field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
+        <field title="extendNews"></field>
+        <field title="extendEvents"></field>
+        <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
+      </child>
+      <child alias="alignment-s">
+        <field title="id">4354</field>
+        <field title="pid">711</field>
+        <field title="sorting">880</field>
+        <field title="tstamp">1613573446</field>
+        <field title="alias">alignment-s</field>
+        <field title="title">Alignment &amp;#40;S&amp;#41;</field>
+        <field title="description"></field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:15:"hl-align-s-left";s:5:"value";s:4:"Left";}i:1;a:2:{s:3:"key";s:16:"hl-align-s-right";s:5:"value";s:5:"Right";}i:2;a:2:{s:3:"key";s:17:"hl-align-s-center";s:5:"value";s:6:"Center";}i:3;a:2:{s:3:"key";s:18:"hl-align-s-justify";s:5:"value";s:7:"Justify";}}</field>
+        <field title="cssClass"></field>
+        <field title="chosen">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendLayout"></field>
+        <field title="extendPage"></field>
+        <field title="extendArticle"></field>
+        <field title="extendForm"></field>
+        <field title="extendFormFields"></field>
+        <field title="formFields">NULL</field>
+        <field title="extendContentElement"></field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
+        <field title="extendNews"></field>
+        <field title="extendEvents"></field>
+        <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
+      </child>
+      <child alias="alignment-m">
+        <field title="id">4355</field>
+        <field title="pid">711</field>
+        <field title="sorting">888</field>
+        <field title="tstamp">1613573446</field>
+        <field title="alias">alignment-m</field>
+        <field title="title">Alignment &amp;#40;M&amp;#41;</field>
+        <field title="description"></field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:15:"hl-align-m-left";s:5:"value";s:4:"Left";}i:1;a:2:{s:3:"key";s:16:"hl-align-m-right";s:5:"value";s:5:"Right";}i:2;a:2:{s:3:"key";s:17:"hl-align-m-center";s:5:"value";s:6:"Center";}i:3;a:2:{s:3:"key";s:18:"hl-align-m-justify";s:5:"value";s:7:"Justify";}}</field>
+        <field title="cssClass"></field>
+        <field title="chosen">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendLayout"></field>
+        <field title="extendPage"></field>
+        <field title="extendArticle"></field>
+        <field title="extendForm"></field>
+        <field title="extendFormFields"></field>
+        <field title="formFields">NULL</field>
+        <field title="extendContentElement"></field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
+        <field title="extendNews"></field>
+        <field title="extendEvents"></field>
+        <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
+      </child>
+      <child alias="alignment-l">
+        <field title="id">4356</field>
+        <field title="pid">711</field>
+        <field title="sorting">892</field>
+        <field title="tstamp">1613573446</field>
+        <field title="alias">alignment-l</field>
+        <field title="title">Alignment &amp;#40;L&amp;#41;</field>
+        <field title="description"></field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:15:"hl-align-l-left";s:5:"value";s:4:"Left";}i:1;a:2:{s:3:"key";s:16:"hl-align-l-right";s:5:"value";s:5:"Right";}i:2;a:2:{s:3:"key";s:17:"hl-align-l-center";s:5:"value";s:6:"Center";}i:3;a:2:{s:3:"key";s:18:"hl-align-l-justify";s:5:"value";s:7:"Justify";}}</field>
+        <field title="cssClass"></field>
+        <field title="chosen">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendLayout"></field>
+        <field title="extendPage"></field>
+        <field title="extendArticle"></field>
+        <field title="extendForm"></field>
+        <field title="extendFormFields"></field>
+        <field title="formFields">NULL</field>
+        <field title="extendContentElement"></field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
+        <field title="extendNews"></field>
+        <field title="extendEvents"></field>
+        <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
+      </child>
+      <child alias="alignment-xl">
+        <field title="id">4357</field>
+        <field title="pid">711</field>
+        <field title="sorting">894</field>
+        <field title="tstamp">1613573446</field>
+        <field title="alias">alignment-xl</field>
+        <field title="title">Alignment &amp;#40;XL&amp;#41;</field>
+        <field title="description"></field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:16:"hl-align-xl-left";s:5:"value";s:4:"Left";}i:1;a:2:{s:3:"key";s:17:"hl-align-xl-right";s:5:"value";s:5:"Right";}i:2;a:2:{s:3:"key";s:18:"hl-align-xl-center";s:5:"value";s:6:"Center";}i:3;a:2:{s:3:"key";s:19:"hl-align-xl-justify";s:5:"value";s:7:"Justify";}}</field>
+        <field title="cssClass"></field>
+        <field title="chosen">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendLayout"></field>
+        <field title="extendPage"></field>
+        <field title="extendArticle"></field>
+        <field title="extendForm"></field>
+        <field title="extendFormFields"></field>
+        <field title="formFields">NULL</field>
+        <field title="extendContentElement"></field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
+        <field title="extendNews"></field>
+        <field title="extendEvents"></field>
+        <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="text">
-    <field title="id">419</field>
+    <field title="id">712</field>
     <field title="tstamp">1579863088</field>
     <field title="title">Texts</field>
     <field title="identifier">text</field>
@@ -299,8 +449,8 @@
     <field title="sorting">384</field>
     <children>
       <child alias="alignment">
-        <field title="id">2751</field>
-        <field title="pid">419</field>
+        <field title="id">4194</field>
+        <field title="pid">712</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586857550</field>
         <field title="alias">alignment</field>
@@ -322,15 +472,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="alignment-xs">
-        <field title="id">2752</field>
-        <field title="pid">419</field>
+        <field title="id">4195</field>
+        <field title="pid">712</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586857550</field>
         <field title="alias">alignment-xs</field>
@@ -352,15 +502,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="alignment-s">
-        <field title="id">2753</field>
-        <field title="pid">419</field>
+        <field title="id">4196</field>
+        <field title="pid">712</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586857550</field>
         <field title="alias">alignment-s</field>
@@ -382,15 +532,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="alignment-m">
-        <field title="id">2754</field>
-        <field title="pid">419</field>
+        <field title="id">4197</field>
+        <field title="pid">712</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586857550</field>
         <field title="alias">alignment-m</field>
@@ -412,15 +562,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="alignment-l">
-        <field title="id">2755</field>
-        <field title="pid">419</field>
+        <field title="id">4198</field>
+        <field title="pid">712</field>
         <field title="sorting">640</field>
         <field title="tstamp">1586857550</field>
         <field title="alias">alignment-l</field>
@@ -442,15 +592,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="alignment-xl">
-        <field title="id">2756</field>
-        <field title="pid">419</field>
+        <field title="id">4199</field>
+        <field title="pid">712</field>
         <field title="sorting">768</field>
         <field title="tstamp">1586857550</field>
         <field title="alias">alignment-xl</field>
@@ -472,15 +622,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="text-color">
-        <field title="id">2757</field>
-        <field title="pid">419</field>
+        <field title="id">4200</field>
+        <field title="pid">712</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586857550</field>
         <field title="alias">text-color</field>
@@ -502,15 +652,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="link-color">
-        <field title="id">2758</field>
-        <field title="pid">419</field>
+        <field title="id">4201</field>
+        <field title="pid">712</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586857551</field>
         <field title="alias">link-color</field>
@@ -532,16 +682,56 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="behavior">
+    <field title="id">729</field>
+    <field title="tstamp">1611303661</field>
+    <field title="title">Behavior</field>
+    <field title="identifier">behavior</field>
+    <field title="groupAlias">Design</field>
+    <field title="sorting">2384</field>
+    <children>
+      <child alias="overflow">
+        <field title="id">4358</field>
+        <field title="pid">729</field>
+        <field title="sorting">128</field>
+        <field title="tstamp">1613573470</field>
+        <field title="alias">overflow</field>
+        <field title="title">Overflow</field>
+        <field title="description"></field>
+        <field title="cssClasses">a:1:{i:0;a:2:{s:3:"key";s:2:"ov";s:5:"value";s:7:"Visible";}}</field>
+        <field title="cssClass"></field>
+        <field title="chosen">1</field>
+        <field title="passToTemplate"></field>
+        <field title="extendLayout"></field>
+        <field title="extendPage"></field>
+        <field title="extendArticle"></field>
+        <field title="extendForm"></field>
+        <field title="extendFormFields"></field>
+        <field title="formFields">NULL</field>
+        <field title="extendContentElement"></field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
+        <field title="extendNews"></field>
+        <field title="extendEvents"></field>
+        <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="gridColumn">
-    <field title="id">422</field>
+    <field title="id">713</field>
     <field title="tstamp">1579863253</field>
     <field title="title">Grid-Columns</field>
     <field title="identifier">gridColumn</field>
@@ -549,8 +739,8 @@
     <field title="sorting">896</field>
     <children>
       <child alias="columns">
-        <field title="id">2761</field>
-        <field title="pid">422</field>
+        <field title="id">4202</field>
+        <field title="pid">713</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586860062</field>
         <field title="alias">columns</field>
@@ -572,15 +762,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="columns-xs">
-        <field title="id">2762</field>
-        <field title="pid">422</field>
+        <field title="id">4203</field>
+        <field title="pid">713</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586860062</field>
         <field title="alias">columns-xs</field>
@@ -602,15 +792,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="columns-s">
-        <field title="id">2763</field>
-        <field title="pid">422</field>
+        <field title="id">4204</field>
+        <field title="pid">713</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586860062</field>
         <field title="alias">columns-s</field>
@@ -632,15 +822,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="columns-m">
-        <field title="id">2764</field>
-        <field title="pid">422</field>
+        <field title="id">4205</field>
+        <field title="pid">713</field>
         <field title="sorting">320</field>
         <field title="tstamp">1586860062</field>
         <field title="alias">columns-m</field>
@@ -662,15 +852,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="columns-l">
-        <field title="id">2765</field>
-        <field title="pid">422</field>
+        <field title="id">4206</field>
+        <field title="pid">713</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586860062</field>
         <field title="alias">columns-l</field>
@@ -692,15 +882,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="columns-xl">
-        <field title="id">2766</field>
-        <field title="pid">422</field>
+        <field title="id">4207</field>
+        <field title="pid">713</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586860062</field>
         <field title="alias">columns-xl</field>
@@ -722,16 +912,16 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="gridOffset">
-    <field title="id">423</field>
+    <field title="id">714</field>
     <field title="tstamp">1579772003</field>
     <field title="title">Grid-Offset</field>
     <field title="identifier">gridOffset</field>
@@ -739,8 +929,8 @@
     <field title="sorting">1024</field>
     <children>
       <child alias="offset">
-        <field title="id">2767</field>
-        <field title="pid">423</field>
+        <field title="id">4208</field>
+        <field title="pid">714</field>
         <field title="sorting">64</field>
         <field title="tstamp">1586860132</field>
         <field title="alias">offset</field>
@@ -762,15 +952,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="offset-xs">
-        <field title="id">2768</field>
-        <field title="pid">423</field>
+        <field title="id">4209</field>
+        <field title="pid">714</field>
         <field title="sorting">224</field>
         <field title="tstamp">1586860132</field>
         <field title="alias">offset-xs</field>
@@ -792,15 +982,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="offset-s">
-        <field title="id">2769</field>
-        <field title="pid">423</field>
+        <field title="id">4210</field>
+        <field title="pid">714</field>
         <field title="sorting">304</field>
         <field title="tstamp">1586860132</field>
         <field title="alias">offset-s</field>
@@ -822,15 +1012,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="offset-m">
-        <field title="id">2770</field>
-        <field title="pid">423</field>
+        <field title="id">4211</field>
+        <field title="pid">714</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586860132</field>
         <field title="alias">offset-m</field>
@@ -852,15 +1042,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="offset-l">
-        <field title="id">2771</field>
-        <field title="pid">423</field>
+        <field title="id">4212</field>
+        <field title="pid">714</field>
         <field title="sorting">480</field>
         <field title="tstamp">1586860132</field>
         <field title="alias">offset-l</field>
@@ -882,15 +1072,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="offset-xl">
-        <field title="id">2772</field>
-        <field title="pid">423</field>
+        <field title="id">4213</field>
+        <field title="pid">714</field>
         <field title="sorting">576</field>
         <field title="tstamp">1586860132</field>
         <field title="alias">offset-xl</field>
@@ -912,16 +1102,16 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="gridOrder">
-    <field title="id">424</field>
+    <field title="id">715</field>
     <field title="tstamp">1581583671</field>
     <field title="title">Grid-Order</field>
     <field title="identifier">gridOrder</field>
@@ -929,8 +1119,8 @@
     <field title="sorting">1088</field>
     <children>
       <child alias="order">
-        <field title="id">2773</field>
-        <field title="pid">424</field>
+        <field title="id">4214</field>
+        <field title="pid">715</field>
         <field title="sorting">64</field>
         <field title="tstamp">1586860240</field>
         <field title="alias">order</field>
@@ -952,15 +1142,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="order-xs">
-        <field title="id">2774</field>
-        <field title="pid">424</field>
+        <field title="id">4215</field>
+        <field title="pid">715</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586860240</field>
         <field title="alias">order-xs</field>
@@ -982,15 +1172,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="order-s">
-        <field title="id">2775</field>
-        <field title="pid">424</field>
+        <field title="id">4216</field>
+        <field title="pid">715</field>
         <field title="sorting">320</field>
         <field title="tstamp">1586860240</field>
         <field title="alias">order-s</field>
@@ -1012,15 +1202,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="order-m">
-        <field title="id">2776</field>
-        <field title="pid">424</field>
+        <field title="id">4217</field>
+        <field title="pid">715</field>
         <field title="sorting">448</field>
         <field title="tstamp">1586860240</field>
         <field title="alias">order-m</field>
@@ -1042,15 +1232,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="order-l">
-        <field title="id">2777</field>
-        <field title="pid">424</field>
+        <field title="id">4218</field>
+        <field title="pid">715</field>
         <field title="sorting">576</field>
         <field title="tstamp">1586860240</field>
         <field title="alias">order-l</field>
@@ -1072,15 +1262,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="order-xl">
-        <field title="id">2778</field>
-        <field title="pid">424</field>
+        <field title="id">4219</field>
+        <field title="pid">715</field>
         <field title="sorting">704</field>
         <field title="tstamp">1586860240</field>
         <field title="alias">order-xl</field>
@@ -1102,16 +1292,16 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="gridAlignment">
-    <field title="id">425</field>
+    <field title="id">716</field>
     <field title="tstamp">1579772003</field>
     <field title="title">Grid-Alignment</field>
     <field title="identifier">gridAlignment</field>
@@ -1119,8 +1309,8 @@
     <field title="sorting">1152</field>
     <children>
       <child alias="gridAlignmentAlignment">
-        <field title="id">2781</field>
-        <field title="pid">425</field>
+        <field title="id">4220</field>
+        <field title="pid">716</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586860353</field>
         <field title="alias">gridAlignmentAlignment</field>
@@ -1142,15 +1332,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="gridAlignmentAlignmentXS">
-        <field title="id">2782</field>
-        <field title="pid">425</field>
+        <field title="id">4221</field>
+        <field title="pid">716</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586860353</field>
         <field title="alias">gridAlignmentAlignmentXS</field>
@@ -1172,15 +1362,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="gridAlignmentAlignmentS">
-        <field title="id">2783</field>
-        <field title="pid">425</field>
+        <field title="id">4222</field>
+        <field title="pid">716</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586860353</field>
         <field title="alias">gridAlignmentAlignmentS</field>
@@ -1202,15 +1392,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="gridAlignmentAlignmentM">
-        <field title="id">2784</field>
-        <field title="pid">425</field>
+        <field title="id">4223</field>
+        <field title="pid">716</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586860353</field>
         <field title="alias">gridAlignmentAlignmentM</field>
@@ -1232,15 +1422,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="gridAlignmentAlignmentL">
-        <field title="id">2785</field>
-        <field title="pid">425</field>
+        <field title="id">4224</field>
+        <field title="pid">716</field>
         <field title="sorting">640</field>
         <field title="tstamp">1586860353</field>
         <field title="alias">gridAlignmentAlignmentL</field>
@@ -1262,15 +1452,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="gridAlignmentAlignmentXL">
-        <field title="id">2786</field>
-        <field title="pid">425</field>
+        <field title="id">4225</field>
+        <field title="pid">716</field>
         <field title="sorting">768</field>
         <field title="tstamp">1586860353</field>
         <field title="alias">gridAlignmentAlignmentXL</field>
@@ -1292,16 +1482,16 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="gridList">
-    <field title="id">439</field>
+    <field title="id">717</field>
     <field title="tstamp">1579772003</field>
     <field title="title">Grid-List</field>
     <field title="identifier">gridList</field>
@@ -1309,8 +1499,8 @@
     <field title="sorting">1408</field>
     <children>
       <child alias="grid-list">
-        <field title="id">2920</field>
-        <field title="pid">439</field>
+        <field title="id">4226</field>
+        <field title="pid">717</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586866086</field>
         <field title="alias">grid-list</field>
@@ -1332,15 +1522,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="grid-list-xs">
-        <field title="id">2921</field>
-        <field title="pid">439</field>
+        <field title="id">4227</field>
+        <field title="pid">717</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586866086</field>
         <field title="alias">grid-list-xs</field>
@@ -1362,15 +1552,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="grid-list-s">
-        <field title="id">2922</field>
-        <field title="pid">439</field>
+        <field title="id">4228</field>
+        <field title="pid">717</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586866086</field>
         <field title="alias">grid-list-s</field>
@@ -1392,15 +1582,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="grid-list-m">
-        <field title="id">2923</field>
-        <field title="pid">439</field>
+        <field title="id">4229</field>
+        <field title="pid">717</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586866087</field>
         <field title="alias">grid-list-m</field>
@@ -1422,15 +1612,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="grid-list-l">
-        <field title="id">2924</field>
-        <field title="pid">439</field>
+        <field title="id">4230</field>
+        <field title="pid">717</field>
         <field title="sorting">640</field>
         <field title="tstamp">1586866087</field>
         <field title="alias">grid-list-l</field>
@@ -1452,15 +1642,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="grid-list-xl">
-        <field title="id">2925</field>
-        <field title="pid">439</field>
+        <field title="id">4231</field>
+        <field title="pid">717</field>
         <field title="sorting">768</field>
         <field title="tstamp">1586866087</field>
         <field title="alias">grid-list-xl</field>
@@ -1482,15 +1672,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoHeight">
-        <field title="id">2926</field>
-        <field title="pid">439</field>
+        <field title="id">4232</field>
+        <field title="pid">717</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586866087</field>
         <field title="alias">autoHeight</field>
@@ -1512,15 +1702,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="justify">
-        <field title="id">2927</field>
-        <field title="pid">439</field>
+        <field title="id">4233</field>
+        <field title="pid">717</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586866087</field>
         <field title="alias">justify</field>
@@ -1542,15 +1732,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="gutter">
-        <field title="id">2928</field>
-        <field title="pid">439</field>
+        <field title="id">4234</field>
+        <field title="pid">717</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586866087</field>
         <field title="alias">gutter</field>
@@ -1572,16 +1762,16 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="leftSpacing">
-    <field title="id">428</field>
+    <field title="id">718</field>
     <field title="tstamp">1580809739</field>
     <field title="title">Left-Spacing</field>
     <field title="identifier">leftSpacing</field>
@@ -1589,8 +1779,8 @@
     <field title="sorting">1948</field>
     <children>
       <child alias="left-spacing">
-        <field title="id">2803</field>
-        <field title="pid">428</field>
+        <field title="id">4235</field>
+        <field title="pid">718</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586860582</field>
         <field title="alias">left-spacing</field>
@@ -1612,15 +1802,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="left-spacing-xs">
-        <field title="id">2804</field>
-        <field title="pid">428</field>
+        <field title="id">4236</field>
+        <field title="pid">718</field>
         <field title="sorting">160</field>
         <field title="tstamp">1586860582</field>
         <field title="alias">left-spacing-xs</field>
@@ -1642,15 +1832,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="left-spacing-s">
-        <field title="id">2805</field>
-        <field title="pid">428</field>
+        <field title="id">4237</field>
+        <field title="pid">718</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586860582</field>
         <field title="alias">left-spacing-s</field>
@@ -1672,15 +1862,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="left-spacing-m">
-        <field title="id">2806</field>
-        <field title="pid">428</field>
+        <field title="id">4238</field>
+        <field title="pid">718</field>
         <field title="sorting">416</field>
         <field title="tstamp">1586860582</field>
         <field title="alias">left-spacing-m</field>
@@ -1702,15 +1892,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="left-spacing-l">
-        <field title="id">2807</field>
-        <field title="pid">428</field>
+        <field title="id">4239</field>
+        <field title="pid">718</field>
         <field title="sorting">544</field>
         <field title="tstamp">1586860582</field>
         <field title="alias">left-spacing-l</field>
@@ -1732,15 +1922,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="left-spacing-xl">
-        <field title="id">2808</field>
-        <field title="pid">428</field>
+        <field title="id">4240</field>
+        <field title="pid">718</field>
         <field title="sorting">672</field>
         <field title="tstamp">1586860582</field>
         <field title="alias">left-spacing-xl</field>
@@ -1762,16 +1952,16 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:15:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:14:"projectDetails";i:12;s:19:"projectChildrenList";i:13;s:22:"projectMarketingStatus";i:14;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="rightSpacing">
-    <field title="id">429</field>
+    <field title="id">719</field>
     <field title="tstamp">1580809892</field>
     <field title="title">Right-Spacing</field>
     <field title="identifier">rightSpacing</field>
@@ -1779,8 +1969,8 @@
     <field title="sorting">1974</field>
     <children>
       <child alias="right-spacing">
-        <field title="id">2809</field>
-        <field title="pid">429</field>
+        <field title="id">4241</field>
+        <field title="pid">719</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586860695</field>
         <field title="alias">right-spacing</field>
@@ -1802,15 +1992,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="right-spacing-xs">
-        <field title="id">2810</field>
-        <field title="pid">429</field>
+        <field title="id">4242</field>
+        <field title="pid">719</field>
         <field title="sorting">160</field>
         <field title="tstamp">1586860695</field>
         <field title="alias">right-spacing-xs</field>
@@ -1832,15 +2022,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="right-spacing-s">
-        <field title="id">2811</field>
-        <field title="pid">429</field>
+        <field title="id">4243</field>
+        <field title="pid">719</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586860695</field>
         <field title="alias">right-spacing-s</field>
@@ -1862,15 +2052,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="right-spacing-m">
-        <field title="id">2812</field>
-        <field title="pid">429</field>
+        <field title="id">4244</field>
+        <field title="pid">719</field>
         <field title="sorting">416</field>
         <field title="tstamp">1586860695</field>
         <field title="alias">right-spacing-m</field>
@@ -1892,15 +2082,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="right-spacing-l">
-        <field title="id">2813</field>
-        <field title="pid">429</field>
+        <field title="id">4245</field>
+        <field title="pid">719</field>
         <field title="sorting">544</field>
         <field title="tstamp">1586860695</field>
         <field title="alias">right-spacing-l</field>
@@ -1922,15 +2112,15 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="right-spacing-xl">
-        <field title="id">2814</field>
-        <field title="pid">429</field>
+        <field title="id">4246</field>
+        <field title="pid">719</field>
         <field title="sorting">672</field>
         <field title="tstamp">1586860695</field>
         <field title="alias">right-spacing-xl</field>
@@ -1952,16 +2142,16 @@
         <field title="modules">NULL</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="spacing">
-    <field title="id">430</field>
+    <field title="id">720</field>
     <field title="tstamp">1581506592</field>
     <field title="title">Spacing</field>
     <field title="identifier">spacing</field>
@@ -1969,8 +2159,8 @@
     <field title="sorting">1980</field>
     <children>
       <child alias="topSpacing">
-        <field title="id">2815</field>
-        <field title="pid">430</field>
+        <field title="id">4247</field>
+        <field title="pid">720</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586860776</field>
         <field title="alias">topSpacing</field>
@@ -1992,15 +2182,15 @@
         <field title="modules">a:3:{i:0;s:5:"login";i:1;s:12:"registration";i:2;s:12:"lostPassword";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="bottomSpacing">
-        <field title="id">2816</field>
-        <field title="pid">430</field>
+        <field title="id">4248</field>
+        <field title="pid">720</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586860776</field>
         <field title="alias">bottomSpacing</field>
@@ -2022,16 +2212,16 @@
         <field title="modules">a:3:{i:0;s:5:"login";i:1;s:12:"registration";i:2;s:12:"lostPassword";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">a:4:{i:0;s:14:"projectDetails";i:1;s:19:"projectChildrenList";i:2;s:22:"projectMarketingStatus";i:3;s:23:"projectCompletionStatus";}</field>
         <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="sliderConfig">
-    <field title="id">431</field>
+    <field title="id">721</field>
     <field title="tstamp">1579775652</field>
     <field title="title">Slider Config</field>
     <field title="identifier">sliderConfig</field>
@@ -2039,8 +2229,8 @@
     <field title="sorting">1000</field>
     <children>
       <child alias="init">
-        <field title="id">2817</field>
-        <field title="pid">431</field>
+        <field title="id">4249</field>
+        <field title="pid">721</field>
         <field title="sorting">64</field>
         <field title="tstamp">1586860973</field>
         <field title="alias">init</field>
@@ -2062,15 +2252,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="preset">
-        <field title="id">2818</field>
-        <field title="pid">431</field>
+        <field title="id">4250</field>
+        <field title="pid">721</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586860973</field>
         <field title="alias">preset</field>
@@ -2092,15 +2282,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="navColor">
-        <field title="id">2819</field>
-        <field title="pid">431</field>
+        <field title="id">4251</field>
+        <field title="pid">721</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586860973</field>
         <field title="alias">navColor</field>
@@ -2122,15 +2312,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controlsColor">
-        <field title="id">2820</field>
-        <field title="pid">431</field>
+        <field title="id">4252</field>
+        <field title="pid">721</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586860973</field>
         <field title="alias">controlsColor</field>
@@ -2152,16 +2342,16 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="slider">
-    <field title="id">432</field>
+    <field title="id">722</field>
     <field title="tstamp">1579772003</field>
     <field title="title">Slider</field>
     <field title="identifier">slider</field>
@@ -2169,8 +2359,8 @@
     <field title="sorting">1536</field>
     <children>
       <child alias="mode">
-        <field title="id">2821</field>
-        <field title="pid">432</field>
+        <field title="id">4253</field>
+        <field title="pid">722</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586861136</field>
         <field title="alias">mode</field>
@@ -2192,15 +2382,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="axis">
-        <field title="id">2822</field>
-        <field title="pid">432</field>
+        <field title="id">4254</field>
+        <field title="pid">722</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">axis</field>
@@ -2222,15 +2412,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="speed">
-        <field title="id">2823</field>
-        <field title="pid">432</field>
+        <field title="id">4255</field>
+        <field title="pid">722</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">speed</field>
@@ -2252,15 +2442,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoHeight">
-        <field title="id">2824</field>
-        <field title="pid">432</field>
+        <field title="id">4256</field>
+        <field title="pid">722</field>
         <field title="sorting">544</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">autoHeight</field>
@@ -2282,15 +2472,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="loop">
-        <field title="id">2825</field>
-        <field title="pid">432</field>
+        <field title="id">4257</field>
+        <field title="pid">722</field>
         <field title="sorting">576</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">loop</field>
@@ -2312,15 +2502,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="rewind">
-        <field title="id">2826</field>
-        <field title="pid">432</field>
+        <field title="id">4258</field>
+        <field title="pid">722</field>
         <field title="sorting">584</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">rewind</field>
@@ -2342,15 +2532,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="mouseDrag">
-        <field title="id">2827</field>
-        <field title="pid">432</field>
+        <field title="id">4259</field>
+        <field title="pid">722</field>
         <field title="sorting">608</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">mouseDrag</field>
@@ -2372,15 +2562,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="arrowKeys">
-        <field title="id">2828</field>
-        <field title="pid">432</field>
+        <field title="id">4260</field>
+        <field title="pid">722</field>
         <field title="sorting">640</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">arrowKeys</field>
@@ -2402,15 +2592,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="swipeAngle">
-        <field title="id">2829</field>
-        <field title="pid">432</field>
+        <field title="id">4261</field>
+        <field title="pid">722</field>
         <field title="sorting">704</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">swipeAngle</field>
@@ -2432,15 +2622,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="disable">
-        <field title="id">2830</field>
-        <field title="pid">432</field>
+        <field title="id">4262</field>
+        <field title="pid">722</field>
         <field title="sorting">736</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">disable</field>
@@ -2462,15 +2652,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="items">
-        <field title="id">2831</field>
-        <field title="pid">432</field>
+        <field title="id">4263</field>
+        <field title="pid">722</field>
         <field title="sorting">752</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">items</field>
@@ -2492,15 +2682,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="slideBy">
-        <field title="id">2832</field>
-        <field title="pid">432</field>
+        <field title="id">4264</field>
+        <field title="pid">722</field>
         <field title="sorting">760</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">slideBy</field>
@@ -2522,15 +2712,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="gutter">
-        <field title="id">2833</field>
-        <field title="pid">432</field>
+        <field title="id">4265</field>
+        <field title="pid">722</field>
         <field title="sorting">764</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">gutter</field>
@@ -2552,15 +2742,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controls">
-        <field title="id">2834</field>
-        <field title="pid">432</field>
+        <field title="id">4266</field>
+        <field title="pid">722</field>
         <field title="sorting">768</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">controls</field>
@@ -2582,15 +2772,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controlsPosition">
-        <field title="id">2835</field>
-        <field title="pid">432</field>
+        <field title="id">4267</field>
+        <field title="pid">722</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">controlsPosition</field>
@@ -2612,15 +2802,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controlsDesign">
-        <field title="id">2836</field>
-        <field title="pid">432</field>
+        <field title="id">4268</field>
+        <field title="pid">722</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">controlsDesign</field>
@@ -2642,15 +2832,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="nav">
-        <field title="id">2837</field>
-        <field title="pid">432</field>
+        <field title="id">4269</field>
+        <field title="pid">722</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">nav</field>
@@ -2672,15 +2862,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="navPosition">
-        <field title="id">2838</field>
-        <field title="pid">432</field>
+        <field title="id">4270</field>
+        <field title="pid">722</field>
         <field title="sorting">1280</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">navPosition</field>
@@ -2702,15 +2892,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="navDesign">
-        <field title="id">2839</field>
-        <field title="pid">432</field>
+        <field title="id">4271</field>
+        <field title="pid">722</field>
         <field title="sorting">1344</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">navDesign</field>
@@ -2732,15 +2922,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplay">
-        <field title="id">2840</field>
-        <field title="pid">432</field>
+        <field title="id">4272</field>
+        <field title="pid">722</field>
         <field title="sorting">2048</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">autoplay</field>
@@ -2762,15 +2952,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayPosition">
-        <field title="id">2841</field>
-        <field title="pid">432</field>
+        <field title="id">4273</field>
+        <field title="pid">722</field>
         <field title="sorting">2176</field>
         <field title="tstamp">1586861137</field>
         <field title="alias">autoplayPosition</field>
@@ -2792,15 +2982,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayTimeout">
-        <field title="id">2842</field>
-        <field title="pid">432</field>
+        <field title="id">4274</field>
+        <field title="pid">722</field>
         <field title="sorting">2304</field>
         <field title="tstamp">1586861138</field>
         <field title="alias">autoplayTimeout</field>
@@ -2822,15 +3012,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayDirection">
-        <field title="id">2843</field>
-        <field title="pid">432</field>
+        <field title="id">4275</field>
+        <field title="pid">722</field>
         <field title="sorting">2432</field>
         <field title="tstamp">1586861138</field>
         <field title="alias">autoplayDirection</field>
@@ -2852,15 +3042,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayHoverPause">
-        <field title="id">2844</field>
-        <field title="pid">432</field>
+        <field title="id">4276</field>
+        <field title="pid">722</field>
         <field title="sorting">2560</field>
         <field title="tstamp">1586861138</field>
         <field title="alias">autoplayHoverPause</field>
@@ -2882,16 +3072,16 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="sliderXS">
-    <field title="id">433</field>
+    <field title="id">723</field>
     <field title="tstamp">1579772716</field>
     <field title="title">Slider &amp;#40;XS&amp;#41;</field>
     <field title="identifier">sliderXS</field>
@@ -2899,8 +3089,8 @@
     <field title="sorting">1664</field>
     <children>
       <child alias="speed">
-        <field title="id">2845</field>
-        <field title="pid">433</field>
+        <field title="id">4277</field>
+        <field title="pid">723</field>
         <field title="sorting">96</field>
         <field title="tstamp">1586861259</field>
         <field title="alias">speed</field>
@@ -2922,15 +3112,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoHeight">
-        <field title="id">2846</field>
-        <field title="pid">433</field>
+        <field title="id">4278</field>
+        <field title="pid">723</field>
         <field title="sorting">120</field>
         <field title="tstamp">1586861259</field>
         <field title="alias">autoHeight</field>
@@ -2952,15 +3142,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="mouseDrag">
-        <field title="id">2847</field>
-        <field title="pid">433</field>
+        <field title="id">4279</field>
+        <field title="pid">723</field>
         <field title="sorting">144</field>
         <field title="tstamp">1586861259</field>
         <field title="alias">mouseDrag</field>
@@ -2982,15 +3172,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="arrowKeys">
-        <field title="id">2848</field>
-        <field title="pid">433</field>
+        <field title="id">4280</field>
+        <field title="pid">723</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586861259</field>
         <field title="alias">arrowKeys</field>
@@ -3012,15 +3202,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="disable">
-        <field title="id">2849</field>
-        <field title="pid">433</field>
+        <field title="id">4281</field>
+        <field title="pid">723</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586861259</field>
         <field title="alias">disable</field>
@@ -3042,15 +3232,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="items">
-        <field title="id">2850</field>
-        <field title="pid">433</field>
+        <field title="id">4282</field>
+        <field title="pid">723</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586861259</field>
         <field title="alias">items</field>
@@ -3072,15 +3262,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="slideBy">
-        <field title="id">2851</field>
-        <field title="pid">433</field>
+        <field title="id">4283</field>
+        <field title="pid">723</field>
         <field title="sorting">448</field>
         <field title="tstamp">1586861260</field>
         <field title="alias">slideBy</field>
@@ -3102,15 +3292,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="gutter">
-        <field title="id">2852</field>
-        <field title="pid">433</field>
+        <field title="id">4284</field>
+        <field title="pid">723</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586861260</field>
         <field title="alias">gutter</field>
@@ -3132,15 +3322,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controls">
-        <field title="id">2853</field>
-        <field title="pid">433</field>
+        <field title="id">4285</field>
+        <field title="pid">723</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586861260</field>
         <field title="alias">controls</field>
@@ -3162,15 +3352,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controlsDesignXS">
-        <field title="id">2854</field>
-        <field title="pid">433</field>
+        <field title="id">4286</field>
+        <field title="pid">723</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586861260</field>
         <field title="alias">controlsDesignXS</field>
@@ -3192,15 +3382,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="nav">
-        <field title="id">2855</field>
-        <field title="pid">433</field>
+        <field title="id">4287</field>
+        <field title="pid">723</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586861260</field>
         <field title="alias">nav</field>
@@ -3222,15 +3412,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="navDesign">
-        <field title="id">2856</field>
-        <field title="pid">433</field>
+        <field title="id">4288</field>
+        <field title="pid">723</field>
         <field title="sorting">1280</field>
         <field title="tstamp">1586861260</field>
         <field title="alias">navDesign</field>
@@ -3252,15 +3442,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplay">
-        <field title="id">2857</field>
-        <field title="pid">433</field>
+        <field title="id">4289</field>
+        <field title="pid">723</field>
         <field title="sorting">1664</field>
         <field title="tstamp">1586861260</field>
         <field title="alias">autoplay</field>
@@ -3282,15 +3472,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayTimeout">
-        <field title="id">2858</field>
-        <field title="pid">433</field>
+        <field title="id">4290</field>
+        <field title="pid">723</field>
         <field title="sorting">1920</field>
         <field title="tstamp">1586861260</field>
         <field title="alias">autoplayTimeout</field>
@@ -3312,15 +3502,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayHoverPause">
-        <field title="id">2859</field>
-        <field title="pid">433</field>
+        <field title="id">4291</field>
+        <field title="pid">723</field>
         <field title="sorting">2176</field>
         <field title="tstamp">1586861260</field>
         <field title="alias">autoplayHoverPause</field>
@@ -3342,16 +3532,16 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="sliderS">
-    <field title="id">434</field>
+    <field title="id">724</field>
     <field title="tstamp">1579772642</field>
     <field title="title">Slider &amp;#40;S&amp;#41;</field>
     <field title="identifier">sliderS</field>
@@ -3359,8 +3549,8 @@
     <field title="sorting">1792</field>
     <children>
       <child alias="speed">
-        <field title="id">2860</field>
-        <field title="pid">434</field>
+        <field title="id">4292</field>
+        <field title="pid">724</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">speed</field>
@@ -3382,15 +3572,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoHeight">
-        <field title="id">2861</field>
-        <field title="pid">434</field>
+        <field title="id">4293</field>
+        <field title="pid">724</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">autoHeight</field>
@@ -3412,15 +3602,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="mouseDrag">
-        <field title="id">2862</field>
-        <field title="pid">434</field>
+        <field title="id">4294</field>
+        <field title="pid">724</field>
         <field title="sorting">336</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">mouseDrag</field>
@@ -3442,15 +3632,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="arrowKeys">
-        <field title="id">2863</field>
-        <field title="pid">434</field>
+        <field title="id">4295</field>
+        <field title="pid">724</field>
         <field title="sorting">360</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">arrowKeys</field>
@@ -3472,15 +3662,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="disable">
-        <field title="id">2864</field>
-        <field title="pid">434</field>
+        <field title="id">4296</field>
+        <field title="pid">724</field>
         <field title="sorting">372</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">disable</field>
@@ -3502,15 +3692,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="items">
-        <field title="id">2865</field>
-        <field title="pid">434</field>
+        <field title="id">4297</field>
+        <field title="pid">724</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">items</field>
@@ -3532,15 +3722,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="slideBy">
-        <field title="id">2866</field>
-        <field title="pid">434</field>
+        <field title="id">4298</field>
+        <field title="pid">724</field>
         <field title="sorting">448</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">slideBy</field>
@@ -3562,15 +3752,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="gutter">
-        <field title="id">2867</field>
-        <field title="pid">434</field>
+        <field title="id">4299</field>
+        <field title="pid">724</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">gutter</field>
@@ -3592,15 +3782,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controls">
-        <field title="id">2868</field>
-        <field title="pid">434</field>
+        <field title="id">4300</field>
+        <field title="pid">724</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">controls</field>
@@ -3622,15 +3812,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controlsDesignS">
-        <field title="id">2869</field>
-        <field title="pid">434</field>
+        <field title="id">4301</field>
+        <field title="pid">724</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">controlsDesignS</field>
@@ -3652,15 +3842,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="nav">
-        <field title="id">2870</field>
-        <field title="pid">434</field>
+        <field title="id">4302</field>
+        <field title="pid">724</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">nav</field>
@@ -3682,15 +3872,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="navDesign">
-        <field title="id">2871</field>
-        <field title="pid">434</field>
+        <field title="id">4303</field>
+        <field title="pid">724</field>
         <field title="sorting">1280</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">navDesign</field>
@@ -3712,15 +3902,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplay">
-        <field title="id">2872</field>
-        <field title="pid">434</field>
+        <field title="id">4304</field>
+        <field title="pid">724</field>
         <field title="sorting">1664</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">autoplay</field>
@@ -3742,15 +3932,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayTimeout">
-        <field title="id">2873</field>
-        <field title="pid">434</field>
+        <field title="id">4305</field>
+        <field title="pid">724</field>
         <field title="sorting">1920</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">autoplayTimeout</field>
@@ -3772,15 +3962,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayHoverPause">
-        <field title="id">2874</field>
-        <field title="pid">434</field>
+        <field title="id">4306</field>
+        <field title="pid">724</field>
         <field title="sorting">2176</field>
         <field title="tstamp">1586861341</field>
         <field title="alias">autoplayHoverPause</field>
@@ -3802,16 +3992,16 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="sliderM">
-    <field title="id">435</field>
+    <field title="id">725</field>
     <field title="tstamp">1579772668</field>
     <field title="title">Slider &amp;#40;M&amp;#41;</field>
     <field title="identifier">sliderM</field>
@@ -3819,8 +4009,8 @@
     <field title="sorting">1856</field>
     <children>
       <child alias="speed">
-        <field title="id">2875</field>
-        <field title="pid">435</field>
+        <field title="id">4307</field>
+        <field title="pid">725</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586861424</field>
         <field title="alias">speed</field>
@@ -3842,15 +4032,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoHeight">
-        <field title="id">2876</field>
-        <field title="pid">435</field>
+        <field title="id">4308</field>
+        <field title="pid">725</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586861424</field>
         <field title="alias">autoHeight</field>
@@ -3872,15 +4062,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="mouseDrag">
-        <field title="id">2877</field>
-        <field title="pid">435</field>
+        <field title="id">4309</field>
+        <field title="pid">725</field>
         <field title="sorting">336</field>
         <field title="tstamp">1586861424</field>
         <field title="alias">mouseDrag</field>
@@ -3902,15 +4092,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="arrowKeys">
-        <field title="id">2878</field>
-        <field title="pid">435</field>
+        <field title="id">4310</field>
+        <field title="pid">725</field>
         <field title="sorting">348</field>
         <field title="tstamp">1586861424</field>
         <field title="alias">arrowKeys</field>
@@ -3932,15 +4122,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="disable">
-        <field title="id">2879</field>
-        <field title="pid">435</field>
+        <field title="id">4311</field>
+        <field title="pid">725</field>
         <field title="sorting">360</field>
         <field title="tstamp">1586861424</field>
         <field title="alias">disable</field>
@@ -3962,15 +4152,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="items">
-        <field title="id">2880</field>
-        <field title="pid">435</field>
+        <field title="id">4312</field>
+        <field title="pid">725</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586861424</field>
         <field title="alias">items</field>
@@ -3992,15 +4182,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="slideBy">
-        <field title="id">2881</field>
-        <field title="pid">435</field>
+        <field title="id">4313</field>
+        <field title="pid">725</field>
         <field title="sorting">448</field>
         <field title="tstamp">1586861424</field>
         <field title="alias">slideBy</field>
@@ -4022,15 +4212,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="gutter">
-        <field title="id">2882</field>
-        <field title="pid">435</field>
+        <field title="id">4314</field>
+        <field title="pid">725</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586861424</field>
         <field title="alias">gutter</field>
@@ -4052,15 +4242,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controls">
-        <field title="id">2883</field>
-        <field title="pid">435</field>
+        <field title="id">4315</field>
+        <field title="pid">725</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586861424</field>
         <field title="alias">controls</field>
@@ -4082,15 +4272,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controlsDesignM">
-        <field title="id">2884</field>
-        <field title="pid">435</field>
+        <field title="id">4316</field>
+        <field title="pid">725</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586861424</field>
         <field title="alias">controlsDesignM</field>
@@ -4112,15 +4302,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="nav">
-        <field title="id">2885</field>
-        <field title="pid">435</field>
+        <field title="id">4317</field>
+        <field title="pid">725</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586861424</field>
         <field title="alias">nav</field>
@@ -4142,15 +4332,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="navDesign">
-        <field title="id">2886</field>
-        <field title="pid">435</field>
+        <field title="id">4318</field>
+        <field title="pid">725</field>
         <field title="sorting">1280</field>
         <field title="tstamp">1586861424</field>
         <field title="alias">navDesign</field>
@@ -4172,15 +4362,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplay">
-        <field title="id">2887</field>
-        <field title="pid">435</field>
+        <field title="id">4319</field>
+        <field title="pid">725</field>
         <field title="sorting">1664</field>
         <field title="tstamp">1586861425</field>
         <field title="alias">autoplay</field>
@@ -4202,15 +4392,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayTimeout">
-        <field title="id">2888</field>
-        <field title="pid">435</field>
+        <field title="id">4320</field>
+        <field title="pid">725</field>
         <field title="sorting">1920</field>
         <field title="tstamp">1586861425</field>
         <field title="alias">autoplayTimeout</field>
@@ -4232,15 +4422,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayHoverPause">
-        <field title="id">2889</field>
-        <field title="pid">435</field>
+        <field title="id">4321</field>
+        <field title="pid">725</field>
         <field title="sorting">2176</field>
         <field title="tstamp">1586861425</field>
         <field title="alias">autoplayHoverPause</field>
@@ -4262,16 +4452,16 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="sliderL">
-    <field title="id">436</field>
+    <field title="id">726</field>
     <field title="tstamp">1579772681</field>
     <field title="title">Slider &amp;#40;L&amp;#41;</field>
     <field title="identifier">sliderL</field>
@@ -4279,8 +4469,8 @@
     <field title="sorting">1888</field>
     <children>
       <child alias="speed">
-        <field title="id">2890</field>
-        <field title="pid">436</field>
+        <field title="id">4322</field>
+        <field title="pid">726</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">speed</field>
@@ -4302,15 +4492,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoHeight">
-        <field title="id">2891</field>
-        <field title="pid">436</field>
+        <field title="id">4323</field>
+        <field title="pid">726</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">autoHeight</field>
@@ -4332,15 +4522,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="mouseDrag">
-        <field title="id">2892</field>
-        <field title="pid">436</field>
+        <field title="id">4324</field>
+        <field title="pid">726</field>
         <field title="sorting">336</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">mouseDrag</field>
@@ -4362,15 +4552,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="arrowKeys">
-        <field title="id">2893</field>
-        <field title="pid">436</field>
+        <field title="id">4325</field>
+        <field title="pid">726</field>
         <field title="sorting">360</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">arrowKeys</field>
@@ -4392,15 +4582,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="disable">
-        <field title="id">2894</field>
-        <field title="pid">436</field>
+        <field title="id">4326</field>
+        <field title="pid">726</field>
         <field title="sorting">372</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">disable</field>
@@ -4422,15 +4612,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="items">
-        <field title="id">2895</field>
-        <field title="pid">436</field>
+        <field title="id">4327</field>
+        <field title="pid">726</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">items</field>
@@ -4452,15 +4642,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="slideBy">
-        <field title="id">2896</field>
-        <field title="pid">436</field>
+        <field title="id">4328</field>
+        <field title="pid">726</field>
         <field title="sorting">448</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">slideBy</field>
@@ -4482,15 +4672,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="gutter">
-        <field title="id">2897</field>
-        <field title="pid">436</field>
+        <field title="id">4329</field>
+        <field title="pid">726</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">gutter</field>
@@ -4512,15 +4702,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controls">
-        <field title="id">2898</field>
-        <field title="pid">436</field>
+        <field title="id">4330</field>
+        <field title="pid">726</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">controls</field>
@@ -4542,15 +4732,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controlsDesignL">
-        <field title="id">2899</field>
-        <field title="pid">436</field>
+        <field title="id">4331</field>
+        <field title="pid">726</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">controlsDesignL</field>
@@ -4572,15 +4762,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="nav">
-        <field title="id">2900</field>
-        <field title="pid">436</field>
+        <field title="id">4332</field>
+        <field title="pid">726</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">nav</field>
@@ -4602,15 +4792,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="navDesign">
-        <field title="id">2901</field>
-        <field title="pid">436</field>
+        <field title="id">4333</field>
+        <field title="pid">726</field>
         <field title="sorting">1280</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">navDesign</field>
@@ -4632,15 +4822,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplay">
-        <field title="id">2902</field>
-        <field title="pid">436</field>
+        <field title="id">4334</field>
+        <field title="pid">726</field>
         <field title="sorting">1664</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">autoplay</field>
@@ -4662,15 +4852,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayTimeout">
-        <field title="id">2903</field>
-        <field title="pid">436</field>
+        <field title="id">4335</field>
+        <field title="pid">726</field>
         <field title="sorting">1920</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">autoplayTimeout</field>
@@ -4692,15 +4882,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayHoverPause">
-        <field title="id">2904</field>
-        <field title="pid">436</field>
+        <field title="id">4336</field>
+        <field title="pid">726</field>
         <field title="sorting">2176</field>
         <field title="tstamp">1586861531</field>
         <field title="alias">autoplayHoverPause</field>
@@ -4722,16 +4912,16 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
   <archive identifier="sliderXL">
-    <field title="id">437</field>
+    <field title="id">727</field>
     <field title="tstamp">1579772702</field>
     <field title="title">Slider &amp;#40;XL&amp;#41;</field>
     <field title="identifier">sliderXL</field>
@@ -4739,8 +4929,8 @@
     <field title="sorting">1904</field>
     <children>
       <child alias="speed">
-        <field title="id">2905</field>
-        <field title="pid">437</field>
+        <field title="id">4337</field>
+        <field title="pid">727</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586861624</field>
         <field title="alias">speed</field>
@@ -4762,15 +4952,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoHeight">
-        <field title="id">2906</field>
-        <field title="pid">437</field>
+        <field title="id">4338</field>
+        <field title="pid">727</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586861624</field>
         <field title="alias">autoHeight</field>
@@ -4792,15 +4982,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="mouseDrag">
-        <field title="id">2907</field>
-        <field title="pid">437</field>
+        <field title="id">4339</field>
+        <field title="pid">727</field>
         <field title="sorting">336</field>
         <field title="tstamp">1586861624</field>
         <field title="alias">mouseDrag</field>
@@ -4822,15 +5012,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="arrowKeys">
-        <field title="id">2908</field>
-        <field title="pid">437</field>
+        <field title="id">4340</field>
+        <field title="pid">727</field>
         <field title="sorting">360</field>
         <field title="tstamp">1586861624</field>
         <field title="alias">arrowKeys</field>
@@ -4852,15 +5042,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="disable">
-        <field title="id">2909</field>
-        <field title="pid">437</field>
+        <field title="id">4341</field>
+        <field title="pid">727</field>
         <field title="sorting">372</field>
         <field title="tstamp">1586861624</field>
         <field title="alias">disable</field>
@@ -4882,15 +5072,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="items">
-        <field title="id">2910</field>
-        <field title="pid">437</field>
+        <field title="id">4342</field>
+        <field title="pid">727</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586861624</field>
         <field title="alias">items</field>
@@ -4912,15 +5102,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="slideBy">
-        <field title="id">2911</field>
-        <field title="pid">437</field>
+        <field title="id">4343</field>
+        <field title="pid">727</field>
         <field title="sorting">448</field>
         <field title="tstamp">1586861624</field>
         <field title="alias">slideBy</field>
@@ -4942,15 +5132,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="gutter">
-        <field title="id">2912</field>
-        <field title="pid">437</field>
+        <field title="id">4344</field>
+        <field title="pid">727</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586861624</field>
         <field title="alias">gutter</field>
@@ -4972,15 +5162,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controls">
-        <field title="id">2913</field>
-        <field title="pid">437</field>
+        <field title="id">4345</field>
+        <field title="pid">727</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586861624</field>
         <field title="alias">controls</field>
@@ -5002,15 +5192,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="controlsDesignXL">
-        <field title="id">2914</field>
-        <field title="pid">437</field>
+        <field title="id">4346</field>
+        <field title="pid">727</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586861624</field>
         <field title="alias">controlsDesignXL</field>
@@ -5032,15 +5222,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="nav">
-        <field title="id">2915</field>
-        <field title="pid">437</field>
+        <field title="id">4347</field>
+        <field title="pid">727</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586861624</field>
         <field title="alias">nav</field>
@@ -5062,15 +5252,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="navDesign">
-        <field title="id">2916</field>
-        <field title="pid">437</field>
+        <field title="id">4348</field>
+        <field title="pid">727</field>
         <field title="sorting">1280</field>
         <field title="tstamp">1586861625</field>
         <field title="alias">navDesign</field>
@@ -5092,15 +5282,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplay">
-        <field title="id">2917</field>
-        <field title="pid">437</field>
+        <field title="id">4349</field>
+        <field title="pid">727</field>
         <field title="sorting">1664</field>
         <field title="tstamp">1586861625</field>
         <field title="alias">autoplay</field>
@@ -5122,15 +5312,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayTimeout">
-        <field title="id">2918</field>
-        <field title="pid">437</field>
+        <field title="id">4350</field>
+        <field title="pid">727</field>
         <field title="sorting">1920</field>
         <field title="tstamp">1586861625</field>
         <field title="alias">autoplayTimeout</field>
@@ -5152,15 +5342,15 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
       <child alias="autoplayHoverPause">
-        <field title="id">2919</field>
-        <field title="pid">437</field>
+        <field title="id">4351</field>
+        <field title="pid">727</field>
         <field title="sorting">2176</field>
         <field title="tstamp">1586861625</field>
         <field title="alias">autoplayHoverPause</field>
@@ -5182,11 +5372,11 @@
         <field title="modules">a:1:{i:0;s:21:"realEstateProjectList";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
-        <field title="extendRealEstateFilter"></field>
-        <field title="realEstateFilterItems">NULL</field>
-        <field title="extendRealEstateFilterItem"></field>
         <field title="realEstateExposeModules">NULL</field>
         <field title="extendRealEstateExposeModule"></field>
+        <field title="realEstateFilterItems">NULL</field>
+        <field title="extendRealEstateFilterItem"></field>
+        <field title="extendRealEstateFilter"></field>
       </child>
     </children>
   </archive>
