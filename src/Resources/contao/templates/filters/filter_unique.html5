@@ -1,0 +1,25 @@
+<div class="<?= $this->prefix ?><?php if ($this->class): ?> <?= $this->class ?><?php endif; ?> pfield">
+
+  <?php $this->block('filter_label'); ?>
+    <?php if ($this->label): ?>
+      <label for="ctrl_<?= $this->id ?>"<?php if ($this->class): ?> class="<?= $this->class ?>"<?php endif; ?>>
+        <?php if ($this->mandatory): ?>
+          <span class="invisible"><?= $this->mandatoryField ?> </span><?= $this->label ?><span class="mandatory">*</span>
+        <?php else: ?>
+          <?= $this->label ?>
+        <?php endif; ?>
+      </label>
+    <?php endif; ?>
+  <?php $this->endblock(); ?>
+  
+  <?php $this->block('filter_item'); ?>
+    <div class="input-container">
+      <input type="text" name="<?= $this->name ?>" id="ctrl_<?= $this->id ?>" class="text<?php if ($this->class) echo ' ' . $this->class; ?>" value="<?= StringUtil::specialchars($this->value) ?>"<?= $this->getAttributes() ?>>
+    </div>
+
+    <?php if ($this->hasErrors()): ?>
+        <p class="error"><?= $this->getErrorAsString() ?></p>
+    <?php endif; ?>
+  <?php $this->endblock(); ?>
+    
+</div>

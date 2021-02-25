@@ -1,0 +1,34 @@
+form.grid .w-list {
+
+  > .inside {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -#{divide($grid-gutter-small-width, 2)} -#{$grid-gutter-small-bottom};
+
+    > div {
+      padding: 0 divide($grid-gutter-small-width, 2) $grid-gutter-small-bottom;
+      flex: 1 1 0;
+    }
+  }
+}
+
+$grid-breakpoints: map-merge((0:0),$breakpoints);
+
+@each $breakpoint in map-keys($grid-breakpoints) {
+  $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+  $widget-list-columns: 4;
+
+  @include media-breakpoint($breakpoint, $grid-breakpoints) {
+
+
+    @for $i from 1 through $widget-list-columns {
+      form.grid .w-list.list#{$infix}-#{$i} > .inside > div {
+        flex: percentage(shorten-decimal-value(1 / $i));
+      }
+    }
+
+    form.grid .w-list.list#{$infix}-auto > .inside > div {
+      flex: auto;
+    }
+  }
+}
