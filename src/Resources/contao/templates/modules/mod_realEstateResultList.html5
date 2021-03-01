@@ -13,11 +13,13 @@
           <input type="hidden" name="FORM_SUBMIT" value="sorting">
           <input type="hidden" name="REQUEST_TOKEN" value="{{request_token}}">
           <div class="widget widget-select select">
-            <select name="sorting" class="select" onchange="this.form.submit()">
-              <?php foreach ($this->sortingOptions as $value => $label): ?>
-                <option value="<?= $value ?>"<?= $this->selectedSortingOption == $value ? ' selected' : '' ?>><?= $label ?></option>
-              <?php endforeach; ?>
-            </select>
+            <div class="input-container">
+              <select name="sorting" class="select" onchange="this.form.submit()">
+                <?php foreach ($this->sortingOptions as $value => $label): ?>
+                  <option value="<?= $value ?>"<?= $this->selectedSortingOption == $value ? ' selected' : '' ?>><?= $label ?></option>
+                <?php endforeach; ?>
+              </select>
+            </div>
           </div>
         </div>
       </form>
