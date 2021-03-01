@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archives>
   <archive identifier="layout">
-    <field title="id">82</field>
+    <field title="id">214</field>
     <field title="tstamp">1579772003</field>
     <field title="title">Layout</field>
     <field title="identifier">layout</field>
@@ -9,8 +9,8 @@
     <field title="sorting">128</field>
     <children>
       <child alias="boxed">
-        <field title="id">463</field>
-        <field title="pid">82</field>
+        <field title="id">1236</field>
+        <field title="pid">214</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586340566</field>
         <field title="alias">boxed</field>
@@ -39,8 +39,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="layoutColumns">
-        <field title="id">464</field>
-        <field title="pid">82</field>
+        <field title="id">1237</field>
+        <field title="pid">214</field>
         <field title="sorting">512</field>
         <field title="tstamp">1587981371</field>
         <field title="alias">layoutColumns</field>
@@ -69,8 +69,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="leftColumnOrder">
-        <field title="id">465</field>
-        <field title="pid">82</field>
+        <field title="id">1238</field>
+        <field title="pid">214</field>
         <field title="sorting">576</field>
         <field title="tstamp">1587981371</field>
         <field title="alias">leftColumnOrder</field>
@@ -99,8 +99,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="rightColumnOrder">
-        <field title="id">466</field>
-        <field title="pid">82</field>
+        <field title="id">1239</field>
+        <field title="pid">214</field>
         <field title="sorting">640</field>
         <field title="tstamp">1587981371</field>
         <field title="alias">rightColumnOrder</field>
@@ -131,7 +131,7 @@
     </children>
   </archive>
   <archive identifier="headline">
-    <field title="id">83</field>
+    <field title="id">215</field>
     <field title="tstamp">1579862691</field>
     <field title="title">Headlines</field>
     <field title="identifier">headline</field>
@@ -139,8 +139,8 @@
     <field title="sorting">130</field>
     <children>
       <child alias="spacingGlobal">
-        <field title="id">467</field>
-        <field title="pid">83</field>
+        <field title="id">1240</field>
+        <field title="pid">215</field>
         <field title="sorting">64</field>
         <field title="tstamp">1586356164</field>
         <field title="alias">spacingGlobal</field>
@@ -169,8 +169,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="spacing">
-        <field title="id">468</field>
-        <field title="pid">83</field>
+        <field title="id">1241</field>
+        <field title="pid">215</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586356164</field>
         <field title="alias">spacing</field>
@@ -199,8 +199,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="spacingXS">
-        <field title="id">469</field>
-        <field title="pid">83</field>
+        <field title="id">1242</field>
+        <field title="pid">215</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586356164</field>
         <field title="alias">spacingXS</field>
@@ -229,8 +229,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="spacingS">
-        <field title="id">470</field>
-        <field title="pid">83</field>
+        <field title="id">1243</field>
+        <field title="pid">215</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586356164</field>
         <field title="alias">spacingS</field>
@@ -259,8 +259,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="spacingM">
-        <field title="id">471</field>
-        <field title="pid">83</field>
+        <field title="id">1244</field>
+        <field title="pid">215</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586358654</field>
         <field title="alias">spacingM</field>
@@ -289,8 +289,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="spacingL">
-        <field title="id">472</field>
-        <field title="pid">83</field>
+        <field title="id">1245</field>
+        <field title="pid">215</field>
         <field title="sorting">640</field>
         <field title="tstamp">1586356164</field>
         <field title="alias">spacingL</field>
@@ -319,8 +319,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="spacingXL">
-        <field title="id">473</field>
-        <field title="pid">83</field>
+        <field title="id">1246</field>
+        <field title="pid">215</field>
         <field title="sorting">768</field>
         <field title="tstamp">1586356165</field>
         <field title="alias">spacingXL</field>
@@ -349,8 +349,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="alignment">
-        <field title="id">474</field>
-        <field title="pid">83</field>
+        <field title="id">1247</field>
+        <field title="pid">215</field>
         <field title="sorting">832</field>
         <field title="tstamp">1613572153</field>
         <field title="alias">alignment</field>
@@ -379,8 +379,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="alignment-xs">
-        <field title="id">475</field>
-        <field title="pid">83</field>
+        <field title="id">1248</field>
+        <field title="pid">215</field>
         <field title="sorting">864</field>
         <field title="tstamp">1613572153</field>
         <field title="alias">alignment-xs</field>
@@ -409,8 +409,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="alignment-s">
-        <field title="id">476</field>
-        <field title="pid">83</field>
+        <field title="id">1249</field>
+        <field title="pid">215</field>
         <field title="sorting">880</field>
         <field title="tstamp">1613572153</field>
         <field title="alias">alignment-s</field>
@@ -439,8 +439,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="alignment-m">
-        <field title="id">477</field>
-        <field title="pid">83</field>
+        <field title="id">1250</field>
+        <field title="pid">215</field>
         <field title="sorting">888</field>
         <field title="tstamp">1613572153</field>
         <field title="alias">alignment-m</field>
@@ -469,8 +469,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="alignment-l">
-        <field title="id">478</field>
-        <field title="pid">83</field>
+        <field title="id">1251</field>
+        <field title="pid">215</field>
         <field title="sorting">892</field>
         <field title="tstamp">1613572153</field>
         <field title="alias">alignment-l</field>
@@ -499,8 +499,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="alignment-xl">
-        <field title="id">479</field>
-        <field title="pid">83</field>
+        <field title="id">1252</field>
+        <field title="pid">215</field>
         <field title="sorting">894</field>
         <field title="tstamp">1613572153</field>
         <field title="alias">alignment-xl</field>
@@ -531,7 +531,7 @@
     </children>
   </archive>
   <archive identifier="text">
-    <field title="id">84</field>
+    <field title="id">216</field>
     <field title="tstamp">1579863088</field>
     <field title="title">Texts</field>
     <field title="identifier">text</field>
@@ -539,8 +539,8 @@
     <field title="sorting">384</field>
     <children>
       <child alias="alignment">
-        <field title="id">480</field>
-        <field title="pid">84</field>
+        <field title="id">1253</field>
+        <field title="pid">216</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586340862</field>
         <field title="alias">alignment</field>
@@ -569,8 +569,8 @@
         <field title="realEstateExposeModules">a:15:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:13:"contactPerson";i:12;s:11:"enquiryForm";i:13;s:5:"share";i:14;s:5:"print";}</field>
       </child>
       <child alias="alignment-xs">
-        <field title="id">481</field>
-        <field title="pid">84</field>
+        <field title="id">1254</field>
+        <field title="pid">216</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586340862</field>
         <field title="alias">alignment-xs</field>
@@ -599,8 +599,8 @@
         <field title="realEstateExposeModules">a:15:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:13:"contactPerson";i:12;s:11:"enquiryForm";i:13;s:5:"share";i:14;s:5:"print";}</field>
       </child>
       <child alias="alignment-s">
-        <field title="id">482</field>
-        <field title="pid">84</field>
+        <field title="id">1255</field>
+        <field title="pid">216</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586340863</field>
         <field title="alias">alignment-s</field>
@@ -629,8 +629,8 @@
         <field title="realEstateExposeModules">a:15:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:13:"contactPerson";i:12;s:11:"enquiryForm";i:13;s:5:"share";i:14;s:5:"print";}</field>
       </child>
       <child alias="alignment-m">
-        <field title="id">483</field>
-        <field title="pid">84</field>
+        <field title="id">1256</field>
+        <field title="pid">216</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586340863</field>
         <field title="alias">alignment-m</field>
@@ -659,8 +659,8 @@
         <field title="realEstateExposeModules">a:15:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:13:"contactPerson";i:12;s:11:"enquiryForm";i:13;s:5:"share";i:14;s:5:"print";}</field>
       </child>
       <child alias="alignment-l">
-        <field title="id">484</field>
-        <field title="pid">84</field>
+        <field title="id">1257</field>
+        <field title="pid">216</field>
         <field title="sorting">640</field>
         <field title="tstamp">1586340863</field>
         <field title="alias">alignment-l</field>
@@ -689,8 +689,8 @@
         <field title="realEstateExposeModules">a:15:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:13:"contactPerson";i:12;s:11:"enquiryForm";i:13;s:5:"share";i:14;s:5:"print";}</field>
       </child>
       <child alias="alignment-xl">
-        <field title="id">485</field>
-        <field title="pid">84</field>
+        <field title="id">1258</field>
+        <field title="pid">216</field>
         <field title="sorting">768</field>
         <field title="tstamp">1586340863</field>
         <field title="alias">alignment-xl</field>
@@ -719,8 +719,8 @@
         <field title="realEstateExposeModules">a:15:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:13:"contactPerson";i:12;s:11:"enquiryForm";i:13;s:5:"share";i:14;s:5:"print";}</field>
       </child>
       <child alias="text-color">
-        <field title="id">486</field>
-        <field title="pid">84</field>
+        <field title="id">1259</field>
+        <field title="pid">216</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586340912</field>
         <field title="alias">text-color</field>
@@ -749,8 +749,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="link-color">
-        <field title="id">487</field>
-        <field title="pid">84</field>
+        <field title="id">1260</field>
+        <field title="pid">216</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586340912</field>
         <field title="alias">link-color</field>
@@ -781,7 +781,7 @@
     </children>
   </archive>
   <archive identifier="image">
-    <field title="id">85</field>
+    <field title="id">217</field>
     <field title="tstamp">1580915121</field>
     <field title="title">Images</field>
     <field title="identifier">image</field>
@@ -789,8 +789,8 @@
     <field title="sorting">645</field>
     <children>
       <child alias="scale">
-        <field title="id">488</field>
-        <field title="pid">85</field>
+        <field title="id">1261</field>
+        <field title="pid">217</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586340959</field>
         <field title="alias">scale</field>
@@ -821,7 +821,7 @@
     </children>
   </archive>
   <archive identifier="behavior">
-    <field title="id">86</field>
+    <field title="id">218</field>
     <field title="tstamp">1611303661</field>
     <field title="title">Behavior</field>
     <field title="identifier">behavior</field>
@@ -829,8 +829,8 @@
     <field title="sorting">2384</field>
     <children>
       <child alias="overflow">
-        <field title="id">489</field>
-        <field title="pid">86</field>
+        <field title="id">1262</field>
+        <field title="pid">218</field>
         <field title="sorting">128</field>
         <field title="tstamp">1613572400</field>
         <field title="alias">overflow</field>
@@ -861,7 +861,7 @@
     </children>
   </archive>
   <archive identifier="gridForm">
-    <field title="id">87</field>
+    <field title="id">219</field>
     <field title="tstamp">1580482556</field>
     <field title="title">Grid-Form</field>
     <field title="identifier">gridForm</field>
@@ -869,8 +869,8 @@
     <field title="sorting">890</field>
     <children>
       <child alias="formGrid">
-        <field title="id">490</field>
-        <field title="pid">87</field>
+        <field title="id">1263</field>
+        <field title="pid">219</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586341005</field>
         <field title="alias">formGrid</field>
@@ -901,7 +901,7 @@
     </children>
   </archive>
   <archive identifier="gridColumn">
-    <field title="id">88</field>
+    <field title="id">220</field>
     <field title="tstamp">1579863253</field>
     <field title="title">Grid-Columns</field>
     <field title="identifier">gridColumn</field>
@@ -909,8 +909,8 @@
     <field title="sorting">896</field>
     <children>
       <child alias="columns">
-        <field title="id">491</field>
-        <field title="pid">88</field>
+        <field title="id">1264</field>
+        <field title="pid">220</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586355321</field>
         <field title="alias">columns</field>
@@ -939,8 +939,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="columns-xs">
-        <field title="id">492</field>
-        <field title="pid">88</field>
+        <field title="id">1265</field>
+        <field title="pid">220</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586355321</field>
         <field title="alias">columns-xs</field>
@@ -969,8 +969,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="columns-s">
-        <field title="id">493</field>
-        <field title="pid">88</field>
+        <field title="id">1266</field>
+        <field title="pid">220</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586355321</field>
         <field title="alias">columns-s</field>
@@ -999,8 +999,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="columns-m">
-        <field title="id">494</field>
-        <field title="pid">88</field>
+        <field title="id">1267</field>
+        <field title="pid">220</field>
         <field title="sorting">320</field>
         <field title="tstamp">1586355321</field>
         <field title="alias">columns-m</field>
@@ -1029,8 +1029,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="columns-l">
-        <field title="id">495</field>
-        <field title="pid">88</field>
+        <field title="id">1268</field>
+        <field title="pid">220</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586355322</field>
         <field title="alias">columns-l</field>
@@ -1059,8 +1059,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="columns-xl">
-        <field title="id">496</field>
-        <field title="pid">88</field>
+        <field title="id">1269</field>
+        <field title="pid">220</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586355322</field>
         <field title="alias">columns-xl</field>
@@ -1091,7 +1091,7 @@
     </children>
   </archive>
   <archive identifier="gridOffset">
-    <field title="id">89</field>
+    <field title="id">221</field>
     <field title="tstamp">1579772003</field>
     <field title="title">Grid-Offset</field>
     <field title="identifier">gridOffset</field>
@@ -1099,8 +1099,8 @@
     <field title="sorting">1024</field>
     <children>
       <child alias="offset">
-        <field title="id">497</field>
-        <field title="pid">89</field>
+        <field title="id">1270</field>
+        <field title="pid">221</field>
         <field title="sorting">64</field>
         <field title="tstamp">1586355451</field>
         <field title="alias">offset</field>
@@ -1129,8 +1129,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="offset-xs">
-        <field title="id">498</field>
-        <field title="pid">89</field>
+        <field title="id">1271</field>
+        <field title="pid">221</field>
         <field title="sorting">224</field>
         <field title="tstamp">1586355451</field>
         <field title="alias">offset-xs</field>
@@ -1159,8 +1159,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="offset-s">
-        <field title="id">499</field>
-        <field title="pid">89</field>
+        <field title="id">1272</field>
+        <field title="pid">221</field>
         <field title="sorting">304</field>
         <field title="tstamp">1586355452</field>
         <field title="alias">offset-s</field>
@@ -1189,8 +1189,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="offset-m">
-        <field title="id">500</field>
-        <field title="pid">89</field>
+        <field title="id">1273</field>
+        <field title="pid">221</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586355452</field>
         <field title="alias">offset-m</field>
@@ -1219,8 +1219,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="offset-l">
-        <field title="id">501</field>
-        <field title="pid">89</field>
+        <field title="id">1274</field>
+        <field title="pid">221</field>
         <field title="sorting">480</field>
         <field title="tstamp">1586355452</field>
         <field title="alias">offset-l</field>
@@ -1249,8 +1249,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="offset-xl">
-        <field title="id">502</field>
-        <field title="pid">89</field>
+        <field title="id">1275</field>
+        <field title="pid">221</field>
         <field title="sorting">576</field>
         <field title="tstamp">1586355452</field>
         <field title="alias">offset-xl</field>
@@ -1281,7 +1281,7 @@
     </children>
   </archive>
   <archive identifier="gridOrder">
-    <field title="id">90</field>
+    <field title="id">222</field>
     <field title="tstamp">1581583671</field>
     <field title="title">Grid-Order</field>
     <field title="identifier">gridOrder</field>
@@ -1289,8 +1289,8 @@
     <field title="sorting">1088</field>
     <children>
       <child alias="order">
-        <field title="id">503</field>
-        <field title="pid">90</field>
+        <field title="id">1276</field>
+        <field title="pid">222</field>
         <field title="sorting">64</field>
         <field title="tstamp">1586355529</field>
         <field title="alias">order</field>
@@ -1319,8 +1319,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="order-xs">
-        <field title="id">504</field>
-        <field title="pid">90</field>
+        <field title="id">1277</field>
+        <field title="pid">222</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586355529</field>
         <field title="alias">order-xs</field>
@@ -1349,8 +1349,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="order-s">
-        <field title="id">505</field>
-        <field title="pid">90</field>
+        <field title="id">1278</field>
+        <field title="pid">222</field>
         <field title="sorting">320</field>
         <field title="tstamp">1586355530</field>
         <field title="alias">order-s</field>
@@ -1379,8 +1379,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="order-m">
-        <field title="id">506</field>
-        <field title="pid">90</field>
+        <field title="id">1279</field>
+        <field title="pid">222</field>
         <field title="sorting">448</field>
         <field title="tstamp">1586355530</field>
         <field title="alias">order-m</field>
@@ -1409,8 +1409,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="order-l">
-        <field title="id">507</field>
-        <field title="pid">90</field>
+        <field title="id">1280</field>
+        <field title="pid">222</field>
         <field title="sorting">576</field>
         <field title="tstamp">1586355530</field>
         <field title="alias">order-l</field>
@@ -1439,8 +1439,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="order-xl">
-        <field title="id">508</field>
-        <field title="pid">90</field>
+        <field title="id">1281</field>
+        <field title="pid">222</field>
         <field title="sorting">704</field>
         <field title="tstamp">1586355530</field>
         <field title="alias">order-xl</field>
@@ -1471,7 +1471,7 @@
     </children>
   </archive>
   <archive identifier="gridAlignment">
-    <field title="id">91</field>
+    <field title="id">223</field>
     <field title="tstamp">1579772003</field>
     <field title="title">Grid-Alignment</field>
     <field title="identifier">gridAlignment</field>
@@ -1479,8 +1479,8 @@
     <field title="sorting">1152</field>
     <children>
       <child alias="gridHorizontalAlignment">
-        <field title="id">509</field>
-        <field title="pid">91</field>
+        <field title="id">1282</field>
+        <field title="pid">223</field>
         <field title="sorting">64</field>
         <field title="tstamp">1586354908</field>
         <field title="alias">gridHorizontalAlignment</field>
@@ -1509,8 +1509,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="gridVerticalAlignment">
-        <field title="id">510</field>
-        <field title="pid">91</field>
+        <field title="id">1283</field>
+        <field title="pid">223</field>
         <field title="sorting">96</field>
         <field title="tstamp">1586354921</field>
         <field title="alias">gridVerticalAlignment</field>
@@ -1539,8 +1539,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="gridAlignmentAlignment">
-        <field title="id">511</field>
-        <field title="pid">91</field>
+        <field title="id">1284</field>
+        <field title="pid">223</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586355203</field>
         <field title="alias">gridAlignmentAlignment</field>
@@ -1569,8 +1569,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="gridAlignmentAlignmentXS">
-        <field title="id">512</field>
-        <field title="pid">91</field>
+        <field title="id">1285</field>
+        <field title="pid">223</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586355203</field>
         <field title="alias">gridAlignmentAlignmentXS</field>
@@ -1599,8 +1599,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="gridAlignmentAlignmentS">
-        <field title="id">513</field>
-        <field title="pid">91</field>
+        <field title="id">1286</field>
+        <field title="pid">223</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586355203</field>
         <field title="alias">gridAlignmentAlignmentS</field>
@@ -1629,8 +1629,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="gridAlignmentAlignmentM">
-        <field title="id">514</field>
-        <field title="pid">91</field>
+        <field title="id">1287</field>
+        <field title="pid">223</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586355203</field>
         <field title="alias">gridAlignmentAlignmentM</field>
@@ -1659,8 +1659,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="gridAlignmentAlignmentL">
-        <field title="id">515</field>
-        <field title="pid">91</field>
+        <field title="id">1288</field>
+        <field title="pid">223</field>
         <field title="sorting">640</field>
         <field title="tstamp">1586355204</field>
         <field title="alias">gridAlignmentAlignmentL</field>
@@ -1689,8 +1689,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="gridAlignmentAlignmentXL">
-        <field title="id">516</field>
-        <field title="pid">91</field>
+        <field title="id">1289</field>
+        <field title="pid">223</field>
         <field title="sorting">768</field>
         <field title="tstamp">1586355204</field>
         <field title="alias">gridAlignmentAlignmentXL</field>
@@ -1721,7 +1721,7 @@
     </children>
   </archive>
   <archive identifier="gridList">
-    <field title="id">61</field>
+    <field title="id">224</field>
     <field title="tstamp">1579772003</field>
     <field title="title">Grid-List</field>
     <field title="identifier">gridList</field>
@@ -1729,8 +1729,8 @@
     <field title="sorting">1408</field>
     <children>
       <child alias="grid-list">
-        <field title="id">517</field>
-        <field title="pid">61</field>
+        <field title="id">1290</field>
+        <field title="pid">224</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586341250</field>
         <field title="alias">grid-list</field>
@@ -1759,8 +1759,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="grid-list-xs">
-        <field title="id">518</field>
-        <field title="pid">61</field>
+        <field title="id">1291</field>
+        <field title="pid">224</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586341250</field>
         <field title="alias">grid-list-xs</field>
@@ -1789,8 +1789,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="grid-list-s">
-        <field title="id">519</field>
-        <field title="pid">61</field>
+        <field title="id">1292</field>
+        <field title="pid">224</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586341250</field>
         <field title="alias">grid-list-s</field>
@@ -1819,8 +1819,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="grid-list-m">
-        <field title="id">520</field>
-        <field title="pid">61</field>
+        <field title="id">1293</field>
+        <field title="pid">224</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586341250</field>
         <field title="alias">grid-list-m</field>
@@ -1849,8 +1849,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="grid-list-l">
-        <field title="id">521</field>
-        <field title="pid">61</field>
+        <field title="id">1294</field>
+        <field title="pid">224</field>
         <field title="sorting">640</field>
         <field title="tstamp">1586341250</field>
         <field title="alias">grid-list-l</field>
@@ -1879,8 +1879,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="grid-list-xl">
-        <field title="id">522</field>
-        <field title="pid">61</field>
+        <field title="id">1295</field>
+        <field title="pid">224</field>
         <field title="sorting">768</field>
         <field title="tstamp">1586341250</field>
         <field title="alias">grid-list-xl</field>
@@ -1909,8 +1909,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoHeight">
-        <field title="id">523</field>
-        <field title="pid">61</field>
+        <field title="id">1296</field>
+        <field title="pid">224</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586341250</field>
         <field title="alias">autoHeight</field>
@@ -1939,8 +1939,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="justify">
-        <field title="id">524</field>
-        <field title="pid">61</field>
+        <field title="id">1297</field>
+        <field title="pid">224</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586341250</field>
         <field title="alias">justify</field>
@@ -1969,8 +1969,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="gutter">
-        <field title="id">525</field>
-        <field title="pid">61</field>
+        <field title="id">1298</field>
+        <field title="pid">224</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586341250</field>
         <field title="alias">gutter</field>
@@ -1999,14 +1999,14 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="w-list">
-        <field title="id">320</field>
-        <field title="pid">61</field>
+        <field title="id">1299</field>
+        <field title="pid">224</field>
         <field title="sorting">1280</field>
-        <field title="tstamp">1614334332</field>
+        <field title="tstamp">1614580614</field>
         <field title="alias">w-list</field>
         <field title="title">Columns</field>
         <field title="description"></field>
-        <field title="cssClasses">a:5:{i:0;a:2:{s:3:"key";s:6:"list-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:6:"list-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:6:"list-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:6:"list-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:9:"list-auto";s:5:"value";s:9:"Automatic";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:6:"list-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:6:"list-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:6:"list-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:6:"list-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:9:"list-auto";s:5:"value";s:9:"Automatic";}i:5;a:2:{s:3:"key";s:8:"list-fit";s:5:"value";s:3:"Fit";}}</field>
         <field title="cssClass"></field>
         <field title="chosen">1</field>
         <field title="passToTemplate"></field>
@@ -2029,14 +2029,14 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="w-list-xs">
-        <field title="id">321</field>
-        <field title="pid">61</field>
+        <field title="id">1300</field>
+        <field title="pid">224</field>
         <field title="sorting">1408</field>
-        <field title="tstamp">1614334338</field>
+        <field title="tstamp">1614580623</field>
         <field title="alias">w-list-xs</field>
         <field title="title">Columns &amp;#40;XS&amp;#41;</field>
         <field title="description"></field>
-        <field title="cssClasses">a:5:{i:0;a:2:{s:3:"key";s:9:"list-xs-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:9:"list-xs-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:9:"list-xs-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:9:"list-xs-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:12:"list-xs-auto";s:5:"value";s:9:"Automatic";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:9:"list-xs-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:9:"list-xs-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:9:"list-xs-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:9:"list-xs-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:12:"list-xs-auto";s:5:"value";s:9:"Automatic";}i:5;a:2:{s:3:"key";s:11:"list-xs-fit";s:5:"value";s:3:"Fit";}}</field>
         <field title="cssClass"></field>
         <field title="chosen">1</field>
         <field title="passToTemplate"></field>
@@ -2059,14 +2059,14 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="w-list-s">
-        <field title="id">322</field>
-        <field title="pid">61</field>
+        <field title="id">1301</field>
+        <field title="pid">224</field>
         <field title="sorting">1536</field>
-        <field title="tstamp">1614334344</field>
+        <field title="tstamp">1614580634</field>
         <field title="alias">w-list-s</field>
         <field title="title">Columns &amp;#40;S&amp;#41;</field>
         <field title="description"></field>
-        <field title="cssClasses">a:5:{i:0;a:2:{s:3:"key";s:8:"list-s-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:8:"list-s-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:8:"list-s-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:8:"list-s-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:11:"list-s-auto";s:5:"value";s:9:"Automatic";}}</field>
+        <field title="cssClasses">a:5:{i:0;a:2:{s:3:"key";s:8:"list-s-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:8:"list-s-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:8:"list-s-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:8:"list-s-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:10:"list-s-fit";s:5:"value";s:3:"Fit";}}</field>
         <field title="cssClass"></field>
         <field title="chosen">1</field>
         <field title="passToTemplate"></field>
@@ -2089,14 +2089,14 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="w-list-m">
-        <field title="id">323</field>
-        <field title="pid">61</field>
+        <field title="id">1302</field>
+        <field title="pid">224</field>
         <field title="sorting">1664</field>
-        <field title="tstamp">1614334357</field>
+        <field title="tstamp">1614580646</field>
         <field title="alias">w-list-m</field>
         <field title="title">Columns &amp;#40;M&amp;#41;</field>
         <field title="description"></field>
-        <field title="cssClasses">a:5:{i:0;a:2:{s:3:"key";s:8:"list-m-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:8:"list-m-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:8:"list-m-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:8:"list-m-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:11:"list-m-auto";s:5:"value";s:9:"Automatic";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:8:"list-m-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:8:"list-m-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:8:"list-m-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:8:"list-m-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:11:"list-m-auto";s:5:"value";s:9:"Automatic";}i:5;a:2:{s:3:"key";s:10:"list-m-fit";s:5:"value";s:3:"Fit";}}</field>
         <field title="cssClass"></field>
         <field title="chosen">1</field>
         <field title="passToTemplate"></field>
@@ -2119,14 +2119,14 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="w-list-l">
-        <field title="id">324</field>
-        <field title="pid">61</field>
+        <field title="id">1303</field>
+        <field title="pid">224</field>
         <field title="sorting">1792</field>
-        <field title="tstamp">1614334366</field>
+        <field title="tstamp">1614580660</field>
         <field title="alias">w-list-l</field>
         <field title="title">Columns &amp;#40;L&amp;#41;</field>
         <field title="description"></field>
-        <field title="cssClasses">a:5:{i:0;a:2:{s:3:"key";s:8:"list-l-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:8:"list-l-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:8:"list-l-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:8:"list-l-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:11:"list-l-auto";s:5:"value";s:9:"Automatic";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:8:"list-l-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:8:"list-l-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:8:"list-l-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:8:"list-l-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:11:"list-l-auto";s:5:"value";s:9:"Automatic";}i:5;a:2:{s:3:"key";s:10:"list-l-fit";s:5:"value";s:3:"Fit";}}</field>
         <field title="cssClass"></field>
         <field title="chosen">1</field>
         <field title="passToTemplate"></field>
@@ -2149,14 +2149,14 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="w-list-xl">
-        <field title="id">325</field>
-        <field title="pid">61</field>
+        <field title="id">1304</field>
+        <field title="pid">224</field>
         <field title="sorting">1920</field>
-        <field title="tstamp">1614334374</field>
+        <field title="tstamp">1614580669</field>
         <field title="alias">w-list-xl</field>
         <field title="title">Columns &amp;#40;XL&amp;#41;</field>
         <field title="description"></field>
-        <field title="cssClasses">a:5:{i:0;a:2:{s:3:"key";s:9:"list-xl-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:9:"list-xl-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:9:"list-xl-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:9:"list-xl-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:12:"list-xl-auto";s:5:"value";s:9:"Automatic";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:9:"list-xl-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:9:"list-xl-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:9:"list-xl-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:9:"list-xl-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:12:"list-xl-auto";s:5:"value";s:9:"Automatic";}i:5;a:2:{s:3:"key";s:11:"list-xl-fit";s:5:"value";s:3:"Fit";}}</field>
         <field title="cssClass"></field>
         <field title="chosen">1</field>
         <field title="passToTemplate"></field>
@@ -2181,7 +2181,7 @@
     </children>
   </archive>
   <archive identifier="leftSpacing">
-    <field title="id">92</field>
+    <field title="id">225</field>
     <field title="tstamp">1580809739</field>
     <field title="title">Left-Spacing</field>
     <field title="identifier">leftSpacing</field>
@@ -2189,8 +2189,8 @@
     <field title="sorting">1948</field>
     <children>
       <child alias="left-spacing">
-        <field title="id">526</field>
-        <field title="pid">92</field>
+        <field title="id">1305</field>
+        <field title="pid">225</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586355711</field>
         <field title="alias">left-spacing</field>
@@ -2219,8 +2219,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="left-spacing-xs">
-        <field title="id">527</field>
-        <field title="pid">92</field>
+        <field title="id">1306</field>
+        <field title="pid">225</field>
         <field title="sorting">160</field>
         <field title="tstamp">1586355711</field>
         <field title="alias">left-spacing-xs</field>
@@ -2249,8 +2249,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="left-spacing-s">
-        <field title="id">528</field>
-        <field title="pid">92</field>
+        <field title="id">1307</field>
+        <field title="pid">225</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586355711</field>
         <field title="alias">left-spacing-s</field>
@@ -2279,8 +2279,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="left-spacing-m">
-        <field title="id">529</field>
-        <field title="pid">92</field>
+        <field title="id">1308</field>
+        <field title="pid">225</field>
         <field title="sorting">416</field>
         <field title="tstamp">1586355711</field>
         <field title="alias">left-spacing-m</field>
@@ -2309,8 +2309,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="left-spacing-l">
-        <field title="id">530</field>
-        <field title="pid">92</field>
+        <field title="id">1309</field>
+        <field title="pid">225</field>
         <field title="sorting">544</field>
         <field title="tstamp">1586355711</field>
         <field title="alias">left-spacing-l</field>
@@ -2339,8 +2339,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="left-spacing-xl">
-        <field title="id">531</field>
-        <field title="pid">92</field>
+        <field title="id">1310</field>
+        <field title="pid">225</field>
         <field title="sorting">672</field>
         <field title="tstamp">1586355711</field>
         <field title="alias">left-spacing-xl</field>
@@ -2371,7 +2371,7 @@
     </children>
   </archive>
   <archive identifier="rightSpacing">
-    <field title="id">93</field>
+    <field title="id">226</field>
     <field title="tstamp">1580809892</field>
     <field title="title">Right-Spacing</field>
     <field title="identifier">rightSpacing</field>
@@ -2379,8 +2379,8 @@
     <field title="sorting">1974</field>
     <children>
       <child alias="right-spacing">
-        <field title="id">532</field>
-        <field title="pid">93</field>
+        <field title="id">1311</field>
+        <field title="pid">226</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586355787</field>
         <field title="alias">right-spacing</field>
@@ -2409,8 +2409,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="right-spacing-xs">
-        <field title="id">533</field>
-        <field title="pid">93</field>
+        <field title="id">1312</field>
+        <field title="pid">226</field>
         <field title="sorting">160</field>
         <field title="tstamp">1586355787</field>
         <field title="alias">right-spacing-xs</field>
@@ -2439,8 +2439,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="right-spacing-s">
-        <field title="id">534</field>
-        <field title="pid">93</field>
+        <field title="id">1313</field>
+        <field title="pid">226</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586355787</field>
         <field title="alias">right-spacing-s</field>
@@ -2469,8 +2469,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="right-spacing-m">
-        <field title="id">535</field>
-        <field title="pid">93</field>
+        <field title="id">1314</field>
+        <field title="pid">226</field>
         <field title="sorting">416</field>
         <field title="tstamp">1586355787</field>
         <field title="alias">right-spacing-m</field>
@@ -2499,8 +2499,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="right-spacing-l">
-        <field title="id">536</field>
-        <field title="pid">93</field>
+        <field title="id">1315</field>
+        <field title="pid">226</field>
         <field title="sorting">544</field>
         <field title="tstamp">1586355787</field>
         <field title="alias">right-spacing-l</field>
@@ -2529,8 +2529,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="right-spacing-xl">
-        <field title="id">537</field>
-        <field title="pid">93</field>
+        <field title="id">1316</field>
+        <field title="pid">226</field>
         <field title="sorting">672</field>
         <field title="tstamp">1586355787</field>
         <field title="alias">right-spacing-xl</field>
@@ -2561,7 +2561,7 @@
     </children>
   </archive>
   <archive identifier="spacing">
-    <field title="id">94</field>
+    <field title="id">227</field>
     <field title="tstamp">1581506592</field>
     <field title="title">Spacing</field>
     <field title="identifier">spacing</field>
@@ -2569,8 +2569,8 @@
     <field title="sorting">1980</field>
     <children>
       <child alias="topSpacing">
-        <field title="id">538</field>
-        <field title="pid">94</field>
+        <field title="id">1317</field>
+        <field title="pid">227</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586355901</field>
         <field title="alias">topSpacing</field>
@@ -2599,8 +2599,8 @@
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
       <child alias="bottomSpacing">
-        <field title="id">539</field>
-        <field title="pid">94</field>
+        <field title="id">1318</field>
+        <field title="pid">227</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586355901</field>
         <field title="alias">bottomSpacing</field>
@@ -2631,7 +2631,7 @@
     </children>
   </archive>
   <archive identifier="exposeHeaderArea">
-    <field title="id">95</field>
+    <field title="id">228</field>
     <field title="tstamp">1587973008</field>
     <field title="title">Header-Area</field>
     <field title="identifier">exposeHeaderArea</field>
@@ -2639,8 +2639,8 @@
     <field title="sorting">1664</field>
     <children>
       <child alias="gutter">
-        <field title="id">540</field>
-        <field title="pid">95</field>
+        <field title="id">1319</field>
+        <field title="pid">228</field>
         <field title="sorting">128</field>
         <field title="tstamp">1587973530</field>
         <field title="alias">gutter</field>
@@ -2669,8 +2669,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="topBottomSpacing">
-        <field title="id">541</field>
-        <field title="pid">95</field>
+        <field title="id">1320</field>
+        <field title="pid">228</field>
         <field title="sorting">256</field>
         <field title="tstamp">1587975209</field>
         <field title="alias">topBottomSpacing</field>
@@ -2699,8 +2699,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="leftRightSpacing">
-        <field title="id">542</field>
-        <field title="pid">95</field>
+        <field title="id">1321</field>
+        <field title="pid">228</field>
         <field title="sorting">384</field>
         <field title="tstamp">1587975234</field>
         <field title="alias">leftRightSpacing</field>
@@ -2731,7 +2731,7 @@
     </children>
   </archive>
   <archive identifier="exposeContentTopArea">
-    <field title="id">96</field>
+    <field title="id">229</field>
     <field title="tstamp">1587973041</field>
     <field title="title">Content-Top-Area</field>
     <field title="identifier">exposeContentTopArea</field>
@@ -2739,8 +2739,8 @@
     <field title="sorting">1792</field>
     <children>
       <child alias="gutter">
-        <field title="id">543</field>
-        <field title="pid">96</field>
+        <field title="id">1322</field>
+        <field title="pid">229</field>
         <field title="sorting">128</field>
         <field title="tstamp">1587973554</field>
         <field title="alias">gutter</field>
@@ -2769,8 +2769,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="topBottomSpacing">
-        <field title="id">544</field>
-        <field title="pid">96</field>
+        <field title="id">1323</field>
+        <field title="pid">229</field>
         <field title="sorting">256</field>
         <field title="tstamp">1587975422</field>
         <field title="alias">topBottomSpacing</field>
@@ -2799,8 +2799,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="leftRightSpacing">
-        <field title="id">545</field>
-        <field title="pid">96</field>
+        <field title="id">1324</field>
+        <field title="pid">229</field>
         <field title="sorting">384</field>
         <field title="tstamp">1587975422</field>
         <field title="alias">leftRightSpacing</field>
@@ -2831,7 +2831,7 @@
     </children>
   </archive>
   <archive identifier="exposeContentArea">
-    <field title="id">97</field>
+    <field title="id">230</field>
     <field title="tstamp">1587975658</field>
     <field title="title">Content-Area</field>
     <field title="identifier">exposeContentArea</field>
@@ -2839,8 +2839,8 @@
     <field title="sorting">1794</field>
     <children>
       <child alias="topBottomSpacing">
-        <field title="id">546</field>
-        <field title="pid">97</field>
+        <field title="id">1325</field>
+        <field title="pid">230</field>
         <field title="sorting">256</field>
         <field title="tstamp">1587975585</field>
         <field title="alias">topBottomSpacing</field>
@@ -2869,8 +2869,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="leftRightSpacing">
-        <field title="id">547</field>
-        <field title="pid">97</field>
+        <field title="id">1326</field>
+        <field title="pid">230</field>
         <field title="sorting">384</field>
         <field title="tstamp">1587975585</field>
         <field title="alias">leftRightSpacing</field>
@@ -2901,7 +2901,7 @@
     </children>
   </archive>
   <archive identifier="exposeLeftArea">
-    <field title="id">98</field>
+    <field title="id">231</field>
     <field title="tstamp">1587973007</field>
     <field title="title">Left-Area</field>
     <field title="identifier">exposeLeftArea</field>
@@ -2909,8 +2909,8 @@
     <field title="sorting">2048</field>
     <children>
       <child alias="gutter">
-        <field title="id">548</field>
-        <field title="pid">98</field>
+        <field title="id">1327</field>
+        <field title="pid">231</field>
         <field title="sorting">128</field>
         <field title="tstamp">1587973279</field>
         <field title="alias">gutter</field>
@@ -2941,7 +2941,7 @@
     </children>
   </archive>
   <archive identifier="exposeMainArea">
-    <field title="id">99</field>
+    <field title="id">232</field>
     <field title="tstamp">1587973073</field>
     <field title="title">Main-Area</field>
     <field title="identifier">exposeMainArea</field>
@@ -2949,8 +2949,8 @@
     <field title="sorting">2176</field>
     <children>
       <child alias="gutter">
-        <field title="id">549</field>
-        <field title="pid">99</field>
+        <field title="id">1328</field>
+        <field title="pid">232</field>
         <field title="sorting">256</field>
         <field title="tstamp">1587973341</field>
         <field title="alias">gutter</field>
@@ -2981,7 +2981,7 @@
     </children>
   </archive>
   <archive identifier="exposeRightArea">
-    <field title="id">100</field>
+    <field title="id">233</field>
     <field title="tstamp">1587973102</field>
     <field title="title">Right-Area</field>
     <field title="identifier">exposeRightArea</field>
@@ -2989,8 +2989,8 @@
     <field title="sorting">2304</field>
     <children>
       <child alias="gutter">
-        <field title="id">550</field>
-        <field title="pid">100</field>
+        <field title="id">1329</field>
+        <field title="pid">233</field>
         <field title="sorting">128</field>
         <field title="tstamp">1587973398</field>
         <field title="alias">gutter</field>
@@ -3021,7 +3021,7 @@
     </children>
   </archive>
   <archive identifier="exposeContentBottomArea">
-    <field title="id">101</field>
+    <field title="id">234</field>
     <field title="tstamp">1587973007</field>
     <field title="title">Content-Bottom-Area</field>
     <field title="identifier">exposeContentBottomArea</field>
@@ -3029,8 +3029,8 @@
     <field title="sorting">2432</field>
     <children>
       <child alias="gutter">
-        <field title="id">551</field>
-        <field title="pid">101</field>
+        <field title="id">1330</field>
+        <field title="pid">234</field>
         <field title="sorting">128</field>
         <field title="tstamp">1587973446</field>
         <field title="alias">gutter</field>
@@ -3059,8 +3059,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="topBottomSpacing">
-        <field title="id">552</field>
-        <field title="pid">101</field>
+        <field title="id">1331</field>
+        <field title="pid">234</field>
         <field title="sorting">256</field>
         <field title="tstamp">1587975853</field>
         <field title="alias">topBottomSpacing</field>
@@ -3089,8 +3089,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="leftRightSpacing">
-        <field title="id">553</field>
-        <field title="pid">101</field>
+        <field title="id">1332</field>
+        <field title="pid">234</field>
         <field title="sorting">384</field>
         <field title="tstamp">1587975853</field>
         <field title="alias">leftRightSpacing</field>
@@ -3121,7 +3121,7 @@
     </children>
   </archive>
   <archive identifier="exposeFooterArea">
-    <field title="id">102</field>
+    <field title="id">235</field>
     <field title="tstamp">1587973007</field>
     <field title="title">Footer-Area</field>
     <field title="identifier">exposeFooterArea</field>
@@ -3129,8 +3129,8 @@
     <field title="sorting">2816</field>
     <children>
       <child alias="gutter">
-        <field title="id">554</field>
-        <field title="pid">102</field>
+        <field title="id">1333</field>
+        <field title="pid">235</field>
         <field title="sorting">128</field>
         <field title="tstamp">1587973506</field>
         <field title="alias">gutter</field>
@@ -3159,8 +3159,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="topBottomSpacing">
-        <field title="id">555</field>
-        <field title="pid">102</field>
+        <field title="id">1334</field>
+        <field title="pid">235</field>
         <field title="sorting">256</field>
         <field title="tstamp">1587975915</field>
         <field title="alias">topBottomSpacing</field>
@@ -3189,8 +3189,8 @@
         <field title="realEstateExposeModules">NULL</field>
       </child>
       <child alias="leftRightSpacing">
-        <field title="id">556</field>
-        <field title="pid">102</field>
+        <field title="id">1335</field>
+        <field title="pid">235</field>
         <field title="sorting">384</field>
         <field title="tstamp">1587975915</field>
         <field title="alias">leftRightSpacing</field>
@@ -3221,7 +3221,7 @@
     </children>
   </archive>
   <archive identifier="sliderConfig">
-    <field title="id">103</field>
+    <field title="id">236</field>
     <field title="tstamp">1579775652</field>
     <field title="title">Slider Config</field>
     <field title="identifier">sliderConfig</field>
@@ -3229,8 +3229,8 @@
     <field title="sorting">1000</field>
     <children>
       <child alias="init">
-        <field title="id">557</field>
-        <field title="pid">103</field>
+        <field title="id">1336</field>
+        <field title="pid">236</field>
         <field title="sorting">64</field>
         <field title="tstamp">1586341426</field>
         <field title="alias">init</field>
@@ -3259,8 +3259,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="preset">
-        <field title="id">558</field>
-        <field title="pid">103</field>
+        <field title="id">1337</field>
+        <field title="pid">236</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586341426</field>
         <field title="alias">preset</field>
@@ -3289,8 +3289,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="navColor">
-        <field title="id">559</field>
-        <field title="pid">103</field>
+        <field title="id">1338</field>
+        <field title="pid">236</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586341426</field>
         <field title="alias">navColor</field>
@@ -3319,8 +3319,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controlsColor">
-        <field title="id">560</field>
-        <field title="pid">103</field>
+        <field title="id">1339</field>
+        <field title="pid">236</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586341426</field>
         <field title="alias">controlsColor</field>
@@ -3351,7 +3351,7 @@
     </children>
   </archive>
   <archive identifier="slider">
-    <field title="id">104</field>
+    <field title="id">237</field>
     <field title="tstamp">1579772003</field>
     <field title="title">Slider</field>
     <field title="identifier">slider</field>
@@ -3359,8 +3359,8 @@
     <field title="sorting">1536</field>
     <children>
       <child alias="mode">
-        <field title="id">561</field>
-        <field title="pid">104</field>
+        <field title="id">1340</field>
+        <field title="pid">237</field>
         <field title="sorting">128</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">mode</field>
@@ -3389,8 +3389,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="axis">
-        <field title="id">562</field>
-        <field title="pid">104</field>
+        <field title="id">1341</field>
+        <field title="pid">237</field>
         <field title="sorting">256</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">axis</field>
@@ -3419,8 +3419,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="speed">
-        <field title="id">563</field>
-        <field title="pid">104</field>
+        <field title="id">1342</field>
+        <field title="pid">237</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">speed</field>
@@ -3449,8 +3449,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoHeight">
-        <field title="id">564</field>
-        <field title="pid">104</field>
+        <field title="id">1343</field>
+        <field title="pid">237</field>
         <field title="sorting">544</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">autoHeight</field>
@@ -3479,8 +3479,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="loop">
-        <field title="id">565</field>
-        <field title="pid">104</field>
+        <field title="id">1344</field>
+        <field title="pid">237</field>
         <field title="sorting">576</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">loop</field>
@@ -3509,8 +3509,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="rewind">
-        <field title="id">566</field>
-        <field title="pid">104</field>
+        <field title="id">1345</field>
+        <field title="pid">237</field>
         <field title="sorting">584</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">rewind</field>
@@ -3539,8 +3539,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="mouseDrag">
-        <field title="id">567</field>
-        <field title="pid">104</field>
+        <field title="id">1346</field>
+        <field title="pid">237</field>
         <field title="sorting">608</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">mouseDrag</field>
@@ -3569,8 +3569,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="arrowKeys">
-        <field title="id">568</field>
-        <field title="pid">104</field>
+        <field title="id">1347</field>
+        <field title="pid">237</field>
         <field title="sorting">640</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">arrowKeys</field>
@@ -3599,8 +3599,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="swipeAngle">
-        <field title="id">569</field>
-        <field title="pid">104</field>
+        <field title="id">1348</field>
+        <field title="pid">237</field>
         <field title="sorting">704</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">swipeAngle</field>
@@ -3629,8 +3629,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="disable">
-        <field title="id">570</field>
-        <field title="pid">104</field>
+        <field title="id">1349</field>
+        <field title="pid">237</field>
         <field title="sorting">736</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">disable</field>
@@ -3659,8 +3659,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="items">
-        <field title="id">571</field>
-        <field title="pid">104</field>
+        <field title="id">1350</field>
+        <field title="pid">237</field>
         <field title="sorting">752</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">items</field>
@@ -3689,8 +3689,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="slideBy">
-        <field title="id">572</field>
-        <field title="pid">104</field>
+        <field title="id">1351</field>
+        <field title="pid">237</field>
         <field title="sorting">760</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">slideBy</field>
@@ -3719,8 +3719,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="gutter">
-        <field title="id">573</field>
-        <field title="pid">104</field>
+        <field title="id">1352</field>
+        <field title="pid">237</field>
         <field title="sorting">764</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">gutter</field>
@@ -3749,8 +3749,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controls">
-        <field title="id">574</field>
-        <field title="pid">104</field>
+        <field title="id">1353</field>
+        <field title="pid">237</field>
         <field title="sorting">768</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">controls</field>
@@ -3779,8 +3779,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controlsPosition">
-        <field title="id">575</field>
-        <field title="pid">104</field>
+        <field title="id">1354</field>
+        <field title="pid">237</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">controlsPosition</field>
@@ -3809,8 +3809,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controlsDesign">
-        <field title="id">576</field>
-        <field title="pid">104</field>
+        <field title="id">1355</field>
+        <field title="pid">237</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">controlsDesign</field>
@@ -3839,8 +3839,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="nav">
-        <field title="id">577</field>
-        <field title="pid">104</field>
+        <field title="id">1356</field>
+        <field title="pid">237</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">nav</field>
@@ -3869,8 +3869,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="navPosition">
-        <field title="id">578</field>
-        <field title="pid">104</field>
+        <field title="id">1357</field>
+        <field title="pid">237</field>
         <field title="sorting">1280</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">navPosition</field>
@@ -3899,8 +3899,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="navDesign">
-        <field title="id">579</field>
-        <field title="pid">104</field>
+        <field title="id">1358</field>
+        <field title="pid">237</field>
         <field title="sorting">1344</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">navDesign</field>
@@ -3929,8 +3929,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplay">
-        <field title="id">580</field>
-        <field title="pid">104</field>
+        <field title="id">1359</field>
+        <field title="pid">237</field>
         <field title="sorting">2048</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">autoplay</field>
@@ -3959,8 +3959,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayPosition">
-        <field title="id">581</field>
-        <field title="pid">104</field>
+        <field title="id">1360</field>
+        <field title="pid">237</field>
         <field title="sorting">2176</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">autoplayPosition</field>
@@ -3989,8 +3989,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayTimeout">
-        <field title="id">582</field>
-        <field title="pid">104</field>
+        <field title="id">1361</field>
+        <field title="pid">237</field>
         <field title="sorting">2304</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">autoplayTimeout</field>
@@ -4019,8 +4019,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayDirection">
-        <field title="id">583</field>
-        <field title="pid">104</field>
+        <field title="id">1362</field>
+        <field title="pid">237</field>
         <field title="sorting">2432</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">autoplayDirection</field>
@@ -4049,8 +4049,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayHoverPause">
-        <field title="id">584</field>
-        <field title="pid">104</field>
+        <field title="id">1363</field>
+        <field title="pid">237</field>
         <field title="sorting">2560</field>
         <field title="tstamp">1586341487</field>
         <field title="alias">autoplayHoverPause</field>
@@ -4081,7 +4081,7 @@
     </children>
   </archive>
   <archive identifier="sliderXS">
-    <field title="id">105</field>
+    <field title="id">238</field>
     <field title="tstamp">1579772716</field>
     <field title="title">Slider &amp;#40;XS&amp;#41;</field>
     <field title="identifier">sliderXS</field>
@@ -4089,8 +4089,8 @@
     <field title="sorting">1664</field>
     <children>
       <child alias="speed">
-        <field title="id">585</field>
-        <field title="pid">105</field>
+        <field title="id">1364</field>
+        <field title="pid">238</field>
         <field title="sorting">96</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">speed</field>
@@ -4119,8 +4119,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoHeight">
-        <field title="id">586</field>
-        <field title="pid">105</field>
+        <field title="id">1365</field>
+        <field title="pid">238</field>
         <field title="sorting">120</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">autoHeight</field>
@@ -4149,8 +4149,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="mouseDrag">
-        <field title="id">587</field>
-        <field title="pid">105</field>
+        <field title="id">1366</field>
+        <field title="pid">238</field>
         <field title="sorting">144</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">mouseDrag</field>
@@ -4179,8 +4179,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="arrowKeys">
-        <field title="id">588</field>
-        <field title="pid">105</field>
+        <field title="id">1367</field>
+        <field title="pid">238</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">arrowKeys</field>
@@ -4209,8 +4209,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="disable">
-        <field title="id">589</field>
-        <field title="pid">105</field>
+        <field title="id">1368</field>
+        <field title="pid">238</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">disable</field>
@@ -4239,8 +4239,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="items">
-        <field title="id">590</field>
-        <field title="pid">105</field>
+        <field title="id">1369</field>
+        <field title="pid">238</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">items</field>
@@ -4269,8 +4269,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="slideBy">
-        <field title="id">591</field>
-        <field title="pid">105</field>
+        <field title="id">1370</field>
+        <field title="pid">238</field>
         <field title="sorting">448</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">slideBy</field>
@@ -4299,8 +4299,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="gutter">
-        <field title="id">592</field>
-        <field title="pid">105</field>
+        <field title="id">1371</field>
+        <field title="pid">238</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">gutter</field>
@@ -4329,8 +4329,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controls">
-        <field title="id">593</field>
-        <field title="pid">105</field>
+        <field title="id">1372</field>
+        <field title="pid">238</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">controls</field>
@@ -4359,8 +4359,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controlsDesignXS">
-        <field title="id">594</field>
-        <field title="pid">105</field>
+        <field title="id">1373</field>
+        <field title="pid">238</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">controlsDesignXS</field>
@@ -4389,8 +4389,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="nav">
-        <field title="id">595</field>
-        <field title="pid">105</field>
+        <field title="id">1374</field>
+        <field title="pid">238</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">nav</field>
@@ -4419,8 +4419,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="navDesign">
-        <field title="id">596</field>
-        <field title="pid">105</field>
+        <field title="id">1375</field>
+        <field title="pid">238</field>
         <field title="sorting">1280</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">navDesign</field>
@@ -4449,8 +4449,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplay">
-        <field title="id">597</field>
-        <field title="pid">105</field>
+        <field title="id">1376</field>
+        <field title="pid">238</field>
         <field title="sorting">1664</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">autoplay</field>
@@ -4479,8 +4479,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayTimeout">
-        <field title="id">598</field>
-        <field title="pid">105</field>
+        <field title="id">1377</field>
+        <field title="pid">238</field>
         <field title="sorting">1920</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">autoplayTimeout</field>
@@ -4509,8 +4509,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayHoverPause">
-        <field title="id">599</field>
-        <field title="pid">105</field>
+        <field title="id">1378</field>
+        <field title="pid">238</field>
         <field title="sorting">2176</field>
         <field title="tstamp">1586341538</field>
         <field title="alias">autoplayHoverPause</field>
@@ -4541,7 +4541,7 @@
     </children>
   </archive>
   <archive identifier="sliderS">
-    <field title="id">106</field>
+    <field title="id">239</field>
     <field title="tstamp">1579772642</field>
     <field title="title">Slider &amp;#40;S&amp;#41;</field>
     <field title="identifier">sliderS</field>
@@ -4549,8 +4549,8 @@
     <field title="sorting">1792</field>
     <children>
       <child alias="speed">
-        <field title="id">600</field>
-        <field title="pid">106</field>
+        <field title="id">1379</field>
+        <field title="pid">239</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">speed</field>
@@ -4579,8 +4579,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoHeight">
-        <field title="id">601</field>
-        <field title="pid">106</field>
+        <field title="id">1380</field>
+        <field title="pid">239</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">autoHeight</field>
@@ -4609,8 +4609,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="mouseDrag">
-        <field title="id">602</field>
-        <field title="pid">106</field>
+        <field title="id">1381</field>
+        <field title="pid">239</field>
         <field title="sorting">336</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">mouseDrag</field>
@@ -4639,8 +4639,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="arrowKeys">
-        <field title="id">603</field>
-        <field title="pid">106</field>
+        <field title="id">1382</field>
+        <field title="pid">239</field>
         <field title="sorting">360</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">arrowKeys</field>
@@ -4669,8 +4669,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="disable">
-        <field title="id">604</field>
-        <field title="pid">106</field>
+        <field title="id">1383</field>
+        <field title="pid">239</field>
         <field title="sorting">372</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">disable</field>
@@ -4699,8 +4699,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="items">
-        <field title="id">605</field>
-        <field title="pid">106</field>
+        <field title="id">1384</field>
+        <field title="pid">239</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">items</field>
@@ -4729,8 +4729,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="slideBy">
-        <field title="id">606</field>
-        <field title="pid">106</field>
+        <field title="id">1385</field>
+        <field title="pid">239</field>
         <field title="sorting">448</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">slideBy</field>
@@ -4759,8 +4759,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="gutter">
-        <field title="id">607</field>
-        <field title="pid">106</field>
+        <field title="id">1386</field>
+        <field title="pid">239</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">gutter</field>
@@ -4789,8 +4789,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controls">
-        <field title="id">608</field>
-        <field title="pid">106</field>
+        <field title="id">1387</field>
+        <field title="pid">239</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">controls</field>
@@ -4819,8 +4819,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controlsDesignS">
-        <field title="id">609</field>
-        <field title="pid">106</field>
+        <field title="id">1388</field>
+        <field title="pid">239</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">controlsDesignS</field>
@@ -4849,8 +4849,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="nav">
-        <field title="id">610</field>
-        <field title="pid">106</field>
+        <field title="id">1389</field>
+        <field title="pid">239</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">nav</field>
@@ -4879,8 +4879,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="navDesign">
-        <field title="id">611</field>
-        <field title="pid">106</field>
+        <field title="id">1390</field>
+        <field title="pid">239</field>
         <field title="sorting">1280</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">navDesign</field>
@@ -4909,8 +4909,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplay">
-        <field title="id">612</field>
-        <field title="pid">106</field>
+        <field title="id">1391</field>
+        <field title="pid">239</field>
         <field title="sorting">1664</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">autoplay</field>
@@ -4939,8 +4939,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayTimeout">
-        <field title="id">613</field>
-        <field title="pid">106</field>
+        <field title="id">1392</field>
+        <field title="pid">239</field>
         <field title="sorting">1920</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">autoplayTimeout</field>
@@ -4969,8 +4969,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayHoverPause">
-        <field title="id">614</field>
-        <field title="pid">106</field>
+        <field title="id">1393</field>
+        <field title="pid">239</field>
         <field title="sorting">2176</field>
         <field title="tstamp">1586341579</field>
         <field title="alias">autoplayHoverPause</field>
@@ -5001,7 +5001,7 @@
     </children>
   </archive>
   <archive identifier="sliderM">
-    <field title="id">107</field>
+    <field title="id">240</field>
     <field title="tstamp">1579772668</field>
     <field title="title">Slider &amp;#40;M&amp;#41;</field>
     <field title="identifier">sliderM</field>
@@ -5009,8 +5009,8 @@
     <field title="sorting">1856</field>
     <children>
       <child alias="speed">
-        <field title="id">615</field>
-        <field title="pid">107</field>
+        <field title="id">1394</field>
+        <field title="pid">240</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">speed</field>
@@ -5039,8 +5039,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoHeight">
-        <field title="id">616</field>
-        <field title="pid">107</field>
+        <field title="id">1395</field>
+        <field title="pid">240</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">autoHeight</field>
@@ -5069,8 +5069,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="mouseDrag">
-        <field title="id">617</field>
-        <field title="pid">107</field>
+        <field title="id">1396</field>
+        <field title="pid">240</field>
         <field title="sorting">336</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">mouseDrag</field>
@@ -5099,8 +5099,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="arrowKeys">
-        <field title="id">618</field>
-        <field title="pid">107</field>
+        <field title="id">1397</field>
+        <field title="pid">240</field>
         <field title="sorting">348</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">arrowKeys</field>
@@ -5129,8 +5129,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="disable">
-        <field title="id">619</field>
-        <field title="pid">107</field>
+        <field title="id">1398</field>
+        <field title="pid">240</field>
         <field title="sorting">360</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">disable</field>
@@ -5159,8 +5159,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="items">
-        <field title="id">620</field>
-        <field title="pid">107</field>
+        <field title="id">1399</field>
+        <field title="pid">240</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">items</field>
@@ -5189,8 +5189,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="slideBy">
-        <field title="id">621</field>
-        <field title="pid">107</field>
+        <field title="id">1400</field>
+        <field title="pid">240</field>
         <field title="sorting">448</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">slideBy</field>
@@ -5219,8 +5219,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="gutter">
-        <field title="id">622</field>
-        <field title="pid">107</field>
+        <field title="id">1401</field>
+        <field title="pid">240</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">gutter</field>
@@ -5249,8 +5249,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controls">
-        <field title="id">623</field>
-        <field title="pid">107</field>
+        <field title="id">1402</field>
+        <field title="pid">240</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">controls</field>
@@ -5279,8 +5279,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controlsDesignM">
-        <field title="id">624</field>
-        <field title="pid">107</field>
+        <field title="id">1403</field>
+        <field title="pid">240</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">controlsDesignM</field>
@@ -5309,8 +5309,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="nav">
-        <field title="id">625</field>
-        <field title="pid">107</field>
+        <field title="id">1404</field>
+        <field title="pid">240</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">nav</field>
@@ -5339,8 +5339,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="navDesign">
-        <field title="id">626</field>
-        <field title="pid">107</field>
+        <field title="id">1405</field>
+        <field title="pid">240</field>
         <field title="sorting">1280</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">navDesign</field>
@@ -5369,8 +5369,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplay">
-        <field title="id">627</field>
-        <field title="pid">107</field>
+        <field title="id">1406</field>
+        <field title="pid">240</field>
         <field title="sorting">1664</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">autoplay</field>
@@ -5399,8 +5399,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayTimeout">
-        <field title="id">628</field>
-        <field title="pid">107</field>
+        <field title="id">1407</field>
+        <field title="pid">240</field>
         <field title="sorting">1920</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">autoplayTimeout</field>
@@ -5429,8 +5429,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayHoverPause">
-        <field title="id">629</field>
-        <field title="pid">107</field>
+        <field title="id">1408</field>
+        <field title="pid">240</field>
         <field title="sorting">2176</field>
         <field title="tstamp">1586341622</field>
         <field title="alias">autoplayHoverPause</field>
@@ -5461,7 +5461,7 @@
     </children>
   </archive>
   <archive identifier="sliderL">
-    <field title="id">108</field>
+    <field title="id">241</field>
     <field title="tstamp">1579772681</field>
     <field title="title">Slider &amp;#40;L&amp;#41;</field>
     <field title="identifier">sliderL</field>
@@ -5469,8 +5469,8 @@
     <field title="sorting">1888</field>
     <children>
       <child alias="speed">
-        <field title="id">630</field>
-        <field title="pid">108</field>
+        <field title="id">1409</field>
+        <field title="pid">241</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">speed</field>
@@ -5499,8 +5499,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoHeight">
-        <field title="id">631</field>
-        <field title="pid">108</field>
+        <field title="id">1410</field>
+        <field title="pid">241</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">autoHeight</field>
@@ -5529,8 +5529,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="mouseDrag">
-        <field title="id">632</field>
-        <field title="pid">108</field>
+        <field title="id">1411</field>
+        <field title="pid">241</field>
         <field title="sorting">336</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">mouseDrag</field>
@@ -5559,8 +5559,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="arrowKeys">
-        <field title="id">633</field>
-        <field title="pid">108</field>
+        <field title="id">1412</field>
+        <field title="pid">241</field>
         <field title="sorting">360</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">arrowKeys</field>
@@ -5589,8 +5589,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="disable">
-        <field title="id">634</field>
-        <field title="pid">108</field>
+        <field title="id">1413</field>
+        <field title="pid">241</field>
         <field title="sorting">372</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">disable</field>
@@ -5619,8 +5619,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="items">
-        <field title="id">635</field>
-        <field title="pid">108</field>
+        <field title="id">1414</field>
+        <field title="pid">241</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">items</field>
@@ -5649,8 +5649,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="slideBy">
-        <field title="id">636</field>
-        <field title="pid">108</field>
+        <field title="id">1415</field>
+        <field title="pid">241</field>
         <field title="sorting">448</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">slideBy</field>
@@ -5679,8 +5679,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="gutter">
-        <field title="id">637</field>
-        <field title="pid">108</field>
+        <field title="id">1416</field>
+        <field title="pid">241</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">gutter</field>
@@ -5709,8 +5709,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controls">
-        <field title="id">638</field>
-        <field title="pid">108</field>
+        <field title="id">1417</field>
+        <field title="pid">241</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">controls</field>
@@ -5739,8 +5739,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controlsDesignL">
-        <field title="id">639</field>
-        <field title="pid">108</field>
+        <field title="id">1418</field>
+        <field title="pid">241</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">controlsDesignL</field>
@@ -5769,8 +5769,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="nav">
-        <field title="id">640</field>
-        <field title="pid">108</field>
+        <field title="id">1419</field>
+        <field title="pid">241</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">nav</field>
@@ -5799,8 +5799,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="navDesign">
-        <field title="id">641</field>
-        <field title="pid">108</field>
+        <field title="id">1420</field>
+        <field title="pid">241</field>
         <field title="sorting">1280</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">navDesign</field>
@@ -5829,8 +5829,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplay">
-        <field title="id">642</field>
-        <field title="pid">108</field>
+        <field title="id">1421</field>
+        <field title="pid">241</field>
         <field title="sorting">1664</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">autoplay</field>
@@ -5859,8 +5859,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayTimeout">
-        <field title="id">643</field>
-        <field title="pid">108</field>
+        <field title="id">1422</field>
+        <field title="pid">241</field>
         <field title="sorting">1920</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">autoplayTimeout</field>
@@ -5889,8 +5889,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayHoverPause">
-        <field title="id">644</field>
-        <field title="pid">108</field>
+        <field title="id">1423</field>
+        <field title="pid">241</field>
         <field title="sorting">2176</field>
         <field title="tstamp">1586341666</field>
         <field title="alias">autoplayHoverPause</field>
@@ -5921,7 +5921,7 @@
     </children>
   </archive>
   <archive identifier="sliderXL">
-    <field title="id">109</field>
+    <field title="id">242</field>
     <field title="tstamp">1579772702</field>
     <field title="title">Slider &amp;#40;XL&amp;#41;</field>
     <field title="identifier">sliderXL</field>
@@ -5929,8 +5929,8 @@
     <field title="sorting">1904</field>
     <children>
       <child alias="speed">
-        <field title="id">645</field>
-        <field title="pid">109</field>
+        <field title="id">1424</field>
+        <field title="pid">242</field>
         <field title="sorting">192</field>
         <field title="tstamp">1586341711</field>
         <field title="alias">speed</field>
@@ -5959,8 +5959,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoHeight">
-        <field title="id">646</field>
-        <field title="pid">109</field>
+        <field title="id">1425</field>
+        <field title="pid">242</field>
         <field title="sorting">288</field>
         <field title="tstamp">1586341711</field>
         <field title="alias">autoHeight</field>
@@ -5989,8 +5989,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="mouseDrag">
-        <field title="id">647</field>
-        <field title="pid">109</field>
+        <field title="id">1426</field>
+        <field title="pid">242</field>
         <field title="sorting">336</field>
         <field title="tstamp">1586341711</field>
         <field title="alias">mouseDrag</field>
@@ -6019,8 +6019,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="arrowKeys">
-        <field title="id">648</field>
-        <field title="pid">109</field>
+        <field title="id">1427</field>
+        <field title="pid">242</field>
         <field title="sorting">360</field>
         <field title="tstamp">1586341711</field>
         <field title="alias">arrowKeys</field>
@@ -6049,8 +6049,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="disable">
-        <field title="id">649</field>
-        <field title="pid">109</field>
+        <field title="id">1428</field>
+        <field title="pid">242</field>
         <field title="sorting">372</field>
         <field title="tstamp">1586341711</field>
         <field title="alias">disable</field>
@@ -6079,8 +6079,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="items">
-        <field title="id">650</field>
-        <field title="pid">109</field>
+        <field title="id">1429</field>
+        <field title="pid">242</field>
         <field title="sorting">384</field>
         <field title="tstamp">1586341711</field>
         <field title="alias">items</field>
@@ -6109,8 +6109,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="slideBy">
-        <field title="id">651</field>
-        <field title="pid">109</field>
+        <field title="id">1430</field>
+        <field title="pid">242</field>
         <field title="sorting">448</field>
         <field title="tstamp">1586341711</field>
         <field title="alias">slideBy</field>
@@ -6139,8 +6139,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="gutter">
-        <field title="id">652</field>
-        <field title="pid">109</field>
+        <field title="id">1431</field>
+        <field title="pid">242</field>
         <field title="sorting">512</field>
         <field title="tstamp">1586341711</field>
         <field title="alias">gutter</field>
@@ -6169,8 +6169,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controls">
-        <field title="id">653</field>
-        <field title="pid">109</field>
+        <field title="id">1432</field>
+        <field title="pid">242</field>
         <field title="sorting">896</field>
         <field title="tstamp">1586341711</field>
         <field title="alias">controls</field>
@@ -6199,8 +6199,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="controlsDesignXL">
-        <field title="id">654</field>
-        <field title="pid">109</field>
+        <field title="id">1433</field>
+        <field title="pid">242</field>
         <field title="sorting">1024</field>
         <field title="tstamp">1586341711</field>
         <field title="alias">controlsDesignXL</field>
@@ -6229,8 +6229,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="nav">
-        <field title="id">655</field>
-        <field title="pid">109</field>
+        <field title="id">1434</field>
+        <field title="pid">242</field>
         <field title="sorting">1152</field>
         <field title="tstamp">1586341711</field>
         <field title="alias">nav</field>
@@ -6259,8 +6259,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="navDesign">
-        <field title="id">656</field>
-        <field title="pid">109</field>
+        <field title="id">1435</field>
+        <field title="pid">242</field>
         <field title="sorting">1280</field>
         <field title="tstamp">1586341711</field>
         <field title="alias">navDesign</field>
@@ -6289,8 +6289,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplay">
-        <field title="id">657</field>
-        <field title="pid">109</field>
+        <field title="id">1436</field>
+        <field title="pid">242</field>
         <field title="sorting">1664</field>
         <field title="tstamp">1586341712</field>
         <field title="alias">autoplay</field>
@@ -6319,8 +6319,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayTimeout">
-        <field title="id">658</field>
-        <field title="pid">109</field>
+        <field title="id">1437</field>
+        <field title="pid">242</field>
         <field title="sorting">1920</field>
         <field title="tstamp">1586341712</field>
         <field title="alias">autoplayTimeout</field>
@@ -6349,8 +6349,8 @@
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
       </child>
       <child alias="autoplayHoverPause">
-        <field title="id">659</field>
-        <field title="pid">109</field>
+        <field title="id">1438</field>
+        <field title="pid">242</field>
         <field title="sorting">2176</field>
         <field title="tstamp">1586341712</field>
         <field title="alias">autoplayHoverPause</field>

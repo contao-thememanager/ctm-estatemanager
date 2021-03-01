@@ -30,5 +30,9 @@ $grid-breakpoints: map-merge((0:0),$breakpoints);
     form.grid .w-list.list#{$infix}-auto > .inside > div {
       flex: auto;
     }
+
+    form.grid .w-list.list#{$infix}-fit > .inside > div {
+      flex: 1 1 0;
+    }
   }
 }
