@@ -7,6 +7,24 @@
       <trans-unit id="tl_expose_module.styleManager.0">
         <source>Style Manager</source>
       </trans-unit>
+      <trans-unit id="tl_expose_module.headlineStyle.0">
+        <source>Class (Headline)</source>
+      </trans-unit>
+      <trans-unit id="tl_expose_module.headlineStyle.1">
+        <source>Here you can add a class for headline.</source>
+      </trans-unit>
+      <trans-unit id="tl_expose_module.headline2.0">
+        <source>Headline 2</source>
+      </trans-unit>
+      <trans-unit id="tl_expose_module.headline2.1">
+        <source>Here you can add a second headline to the module.</source>
+      </trans-unit>
+      <trans-unit id="tl_expose_module.headline2Style.0">
+        <source>Class (Headline 2)</source>
+      </trans-unit>
+      <trans-unit id="tl_expose_module.headline2Style.1">
+        <source>Here you can add a class for headline 2.</source>
+      </trans-unit>
     </body>
   </file>
 </xliff>
