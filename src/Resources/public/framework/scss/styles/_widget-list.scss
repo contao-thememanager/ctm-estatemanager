@@ -23,7 +23,7 @@ $grid-breakpoints: map-merge((0:0),$breakpoints);
 
     @for $i from 1 through $widget-list-columns {
       form.grid .w-list.list#{$infix}-#{$i} > .inside > div {
-        flex: percentage(shorten-decimal-value(1 / $i));
+        flex: shortPercentage(1 / $i);
       }
     }
 
