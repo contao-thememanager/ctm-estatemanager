@@ -965,9 +965,6 @@
         <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:6:"list-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:6:"list-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:6:"list-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:6:"list-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:9:"list-auto";s:5:"value";s:9:"Automatic";}i:5;a:2:{s:3:"key";s:8:"list-fit";s:5:"value";s:3:"Fit";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
-        <field title="formFields">a:2:{i:0;s:5:"radio";i:1;s:8:"checkbox";}</field>
-        <field title="contentElements">a:4:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";}</field>
-        <field title="modules">a:4:{i:0;s:14:"realEstateList";i:1;s:20:"realEstateResultList";i:2;s:21:"realEstateProjectList";i:3;s:8:"newslist";}</field>
         <field title="extendRealEstateFilterItem">1</field>
         <field title="realEstateFilterItems">a:2:{i:0;s:13:"typeSeparated";i:1;s:6:"toggle";}</field>
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
@@ -982,9 +979,6 @@
         <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:9:"list-xs-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:9:"list-xs-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:9:"list-xs-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:9:"list-xs-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:12:"list-xs-auto";s:5:"value";s:9:"Automatic";}i:5;a:2:{s:3:"key";s:11:"list-xs-fit";s:5:"value";s:3:"Fit";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
-        <field title="formFields">a:2:{i:0;s:5:"radio";i:1;s:8:"checkbox";}</field>
-        <field title="contentElements">a:4:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";}</field>
-        <field title="modules">a:4:{i:0;s:8:"newslist";i:1;s:14:"realEstateList";i:2;s:20:"realEstateResultList";i:3;s:21:"realEstateProjectList";}</field>
         <field title="extendRealEstateFilterItem">1</field>
         <field title="realEstateFilterItems">a:2:{i:0;s:13:"typeSeparated";i:1;s:6:"toggle";}</field>
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
@@ -999,9 +993,6 @@
         <field title="cssClasses">a:5:{i:0;a:2:{s:3:"key";s:8:"list-s-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:8:"list-s-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:8:"list-s-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:8:"list-s-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:10:"list-s-fit";s:5:"value";s:3:"Fit";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
-        <field title="formFields">a:2:{i:0;s:5:"radio";i:1;s:8:"checkbox";}</field>
-        <field title="contentElements">a:4:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";}</field>
-        <field title="modules">a:4:{i:0;s:8:"newslist";i:1;s:14:"realEstateList";i:2;s:20:"realEstateResultList";i:3;s:21:"realEstateProjectList";}</field>
         <field title="extendRealEstateFilterItem">1</field>
         <field title="realEstateFilterItems">a:2:{i:0;s:13:"typeSeparated";i:1;s:6:"toggle";}</field>
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
@@ -1016,9 +1007,6 @@
         <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:8:"list-m-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:8:"list-m-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:8:"list-m-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:8:"list-m-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:11:"list-m-auto";s:5:"value";s:9:"Automatic";}i:5;a:2:{s:3:"key";s:10:"list-m-fit";s:5:"value";s:3:"Fit";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
-        <field title="formFields">a:2:{i:0;s:5:"radio";i:1;s:8:"checkbox";}</field>
-        <field title="contentElements">a:4:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";}</field>
-        <field title="modules">a:4:{i:0;s:8:"newslist";i:1;s:14:"realEstateList";i:2;s:20:"realEstateResultList";i:3;s:21:"realEstateProjectList";}</field>
         <field title="extendRealEstateFilterItem">1</field>
         <field title="realEstateFilterItems">a:2:{i:0;s:13:"typeSeparated";i:1;s:6:"toggle";}</field>
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
@@ -1033,9 +1021,6 @@
         <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:8:"list-l-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:8:"list-l-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:8:"list-l-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:8:"list-l-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:11:"list-l-auto";s:5:"value";s:9:"Automatic";}i:5;a:2:{s:3:"key";s:10:"list-l-fit";s:5:"value";s:3:"Fit";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
-        <field title="formFields">a:2:{i:0;s:5:"radio";i:1;s:8:"checkbox";}</field>
-        <field title="contentElements">a:4:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";}</field>
-        <field title="modules">a:4:{i:0;s:8:"newslist";i:1;s:14:"realEstateList";i:2;s:20:"realEstateResultList";i:3;s:21:"realEstateProjectList";}</field>
         <field title="extendRealEstateFilterItem">1</field>
         <field title="realEstateFilterItems">a:2:{i:0;s:13:"typeSeparated";i:1;s:6:"toggle";}</field>
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
@@ -1050,9 +1035,6 @@
         <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:9:"list-xl-1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:9:"list-xl-2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:9:"list-xl-3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:9:"list-xl-4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:12:"list-xl-auto";s:5:"value";s:9:"Automatic";}i:5;a:2:{s:3:"key";s:11:"list-xl-fit";s:5:"value";s:3:"Fit";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
-        <field title="formFields">a:2:{i:0;s:5:"radio";i:1;s:8:"checkbox";}</field>
-        <field title="contentElements">a:4:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";}</field>
-        <field title="modules">a:4:{i:0;s:8:"newslist";i:1;s:14:"realEstateList";i:2;s:20:"realEstateResultList";i:3;s:21:"realEstateProjectList";}</field>
         <field title="extendRealEstateFilterItem">1</field>
         <field title="realEstateFilterItems">a:2:{i:0;s:13:"typeSeparated";i:1;s:6:"toggle";}</field>
         <field title="realEstateExposeModules">a:1:{i:0;s:7:"gallery";}</field>
@@ -1254,7 +1236,6 @@
         <field title="cssClasses">a:0:{}</field>
         <field title="extendContentElement">1</field>
         <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
-        <field title="modules">a:3:{i:0;s:5:"login";i:1;s:12:"registration";i:2;s:12:"lostPassword";}</field>
         <field title="extendRealEstateExposeModule">1</field>
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
@@ -1268,7 +1249,6 @@
         <field title="cssClasses">a:0:{}</field>
         <field title="extendContentElement">1</field>
         <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
-        <field title="modules">a:3:{i:0;s:5:"login";i:1;s:12:"registration";i:2;s:12:"lostPassword";}</field>
         <field title="extendRealEstateExposeModule">1</field>
         <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
       </child>
