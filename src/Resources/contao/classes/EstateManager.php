@@ -65,4 +65,25 @@ class EstateManager
 
         return false;
     }
+
+    /**
+     * StyleManager Support
+     *
+     * Check whether an element is visible in style manager widget
+     *
+     * @param $objGroup
+     * @param $strTable
+     *
+     * @return bool
+     */
+    public function isVisibleGroup($objGroup, $strTable)
+    {
+        if(
+            'tl_filter_item' === $strTable && !!$objGroup->extendRealEstateFilterItem ||
+            'tl_filter' === $strTable && !!$objGroup->extendRealEstateFilter ||
+            'tl_expose_module' === $strTable && !!$objGroup->extendRealEstateExposeModule
+        ){ return true; }
+
+        return false;
+    }
 }

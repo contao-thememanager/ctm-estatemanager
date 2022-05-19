@@ -63,6 +63,9 @@ $GLOBALS['TL_DCA']['tl_expose_module']['fields']['headline2Style'] = array
 	'sql'                     => "varchar(2) NOT NULL default ''"
 );
 
+$GLOBALS['TL_DCA']['tl_expose_module']['fields']['cssID']['sql'] = "text NULL";
+$GLOBALS['TL_DCA']['tl_expose_module']['fields']['cssID']['eval']['alwaysSave'] = true;
+
+$GLOBALS['TL_DCA']['tl_expose_module']['config']['onload_callback'][] = array('ContaoThemeManager\Core\ThemeManager', 'extendHeadlineField');
 $GLOBALS['TL_DCA']['tl_expose_module']['fields']['cssID']['load_callback'][] = array('\\Oveleon\\ContaoComponentStyleManager\\StyleManager', 'onLoad');
 $GLOBALS['TL_DCA']['tl_expose_module']['fields']['cssID']['save_callback'][] = array('\\Oveleon\\ContaoComponentStyleManager\\StyleManager', 'onSave');
-$GLOBALS['TL_DCA']['tl_expose_module']['config']['onload_callback'][] = array('ContaoThemeManager\Core\ThemeManager', 'extendHeadlineField');
