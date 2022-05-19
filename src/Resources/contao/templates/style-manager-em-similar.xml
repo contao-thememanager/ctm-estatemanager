@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archives>
+  <archive identifier="layout">
+    <field title="id">2</field>
+    <field title="tstamp">1579772003</field>
+    <field title="title">Layout</field>
+    <field title="identifier">layout</field>
+    <field title="groupAlias">Design</field>
+    <field title="sorting">128</field>
+    <children>
+      <child alias="boxed">
+        <field title="id">4</field>
+        <field title="pid">2</field>
+        <field title="sorting">256</field>
+        <field title="tstamp">1648713266</field>
+        <field title="alias">boxed</field>
+        <field title="title">Boxed</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="headline">
+    <field title="id">3</field>
+    <field title="tstamp">1579862691</field>
+    <field title="title">Headlines</field>
+    <field title="identifier">headline</field>
+    <field title="groupAlias">Design</field>
+    <field title="sorting">130</field>
+    <children>
+      <child alias="spacingGlobal">
+        <field title="id">10</field>
+        <field title="pid">3</field>
+        <field title="sorting">64</field>
+        <field title="tstamp">1648713580</field>
+        <field title="alias">spacingGlobal</field>
+        <field title="title">Global Spacing &amp;#40;activates the Responsive behaviour&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="spacing">
+        <field title="id">11</field>
+        <field title="pid">3</field>
+        <field title="sorting">128</field>
+        <field title="tstamp">1648562615</field>
+        <field title="alias">spacing</field>
+        <field title="title">Spacing</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="spacingXS">
+        <field title="id">12</field>
+        <field title="pid">3</field>
+        <field title="sorting">256</field>
+        <field title="tstamp">1648562615</field>
+        <field title="alias">spacingXS</field>
+        <field title="title">Spacing &amp;#40;XS&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="spacingS">
+        <field title="id">13</field>
+        <field title="pid">3</field>
+        <field title="sorting">384</field>
+        <field title="tstamp">1648562615</field>
+        <field title="alias">spacingS</field>
+        <field title="title">Spacing &amp;#40;S&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="spacingM">
+        <field title="id">14</field>
+        <field title="pid">3</field>
+        <field title="sorting">512</field>
+        <field title="tstamp">1648562615</field>
+        <field title="alias">spacingM</field>
+        <field title="title">Spacing &amp;#40;M&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="spacingL">
+        <field title="id">15</field>
+        <field title="pid">3</field>
+        <field title="sorting">640</field>
+        <field title="tstamp">1648562615</field>
+        <field title="alias">spacingL</field>
+        <field title="title">Spacing &amp;#40;L&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="spacingXL">
+        <field title="id">16</field>
+        <field title="pid">3</field>
+        <field title="sorting">768</field>
+        <field title="tstamp">1648562615</field>
+        <field title="alias">spacingXL</field>
+        <field title="title">Spacing &amp;#40;XL&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="alignment">
+        <field title="id">17</field>
+        <field title="pid">3</field>
+        <field title="sorting">832</field>
+        <field title="tstamp">1648717194</field>
+        <field title="alias">alignment</field>
+        <field title="title">Alignment</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="alignment-xs">
+        <field title="id">18</field>
+        <field title="pid">3</field>
+        <field title="sorting">864</field>
+        <field title="tstamp">1648717194</field>
+        <field title="alias">alignment-xs</field>
+        <field title="title">Alignment &amp;#40;XS&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="alignment-s">
+        <field title="id">19</field>
+        <field title="pid">3</field>
+        <field title="sorting">880</field>
+        <field title="tstamp">1648717194</field>
+        <field title="alias">alignment-s</field>
+        <field title="title">Alignment &amp;#40;S&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="alignment-m">
+        <field title="id">20</field>
+        <field title="pid">3</field>
+        <field title="sorting">888</field>
+        <field title="tstamp">1648717194</field>
+        <field title="alias">alignment-m</field>
+        <field title="title">Alignment &amp;#40;M&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="alignment-l">
+        <field title="id">21</field>
+        <field title="pid">3</field>
+        <field title="sorting">892</field>
+        <field title="tstamp">1648717194</field>
+        <field title="alias">alignment-l</field>
+        <field title="title">Alignment &amp;#40;L&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="alignment-xl">
+        <field title="id">22</field>
+        <field title="pid">3</field>
+        <field title="sorting">894</field>
+        <field title="tstamp">1648717194</field>
+        <field title="alias">alignment-xl</field>
+        <field title="title">Alignment &amp;#40;XL&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="text">
+    <field title="id">4</field>
+    <field title="tstamp">1579863088</field>
+    <field title="title">Texts</field>
+    <field title="identifier">text</field>
+    <field title="groupAlias">Design</field>
+    <field title="sorting">384</field>
+    <children>
+      <child alias="alignment">
+        <field title="id">23</field>
+        <field title="pid">4</field>
+        <field title="sorting">128</field>
+        <field title="tstamp">1648717229</field>
+        <field title="alias">alignment</field>
+        <field title="title">Alignment</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="alignment-xs">
+        <field title="id">24</field>
+        <field title="pid">4</field>
+        <field title="sorting">256</field>
+        <field title="tstamp">1648717229</field>
+        <field title="alias">alignment-xs</field>
+        <field title="title">Alignment &amp;#40;XS&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="alignment-s">
+        <field title="id">25</field>
+        <field title="pid">4</field>
+        <field title="sorting">384</field>
+        <field title="tstamp">1648717229</field>
+        <field title="alias">alignment-s</field>
+        <field title="title">Alignment &amp;#40;S&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="alignment-m">
+        <field title="id">26</field>
+        <field title="pid">4</field>
+        <field title="sorting">512</field>
+        <field title="tstamp">1648717229</field>
+        <field title="alias">alignment-m</field>
+        <field title="title">Alignment &amp;#40;M&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="alignment-l">
+        <field title="id">27</field>
+        <field title="pid">4</field>
+        <field title="sorting">640</field>
+        <field title="tstamp">1648717229</field>
+        <field title="alias">alignment-l</field>
+        <field title="title">Alignment &amp;#40;L&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="alignment-xl">
+        <field title="id">28</field>
+        <field title="pid">4</field>
+        <field title="sorting">768</field>
+        <field title="tstamp">1648717229</field>
+        <field title="alias">alignment-xl</field>
+        <field title="title">Alignment &amp;#40;XL&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="text-color">
+        <field title="id">29</field>
+        <field title="pid">4</field>
+        <field title="sorting">896</field>
+        <field title="tstamp">1648717262</field>
+        <field title="alias">text-color</field>
+        <field title="title">Text-Color</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="link-color">
+        <field title="id">30</field>
+        <field title="pid">4</field>
+        <field title="sorting">1024</field>
+        <field title="tstamp">1648717256</field>
+        <field title="alias">link-color</field>
+        <field title="title">Link-Color</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="gridColumn">
+    <field title="id">15</field>
+    <field title="tstamp">1579863253</field>
+    <field title="title">Grid-Columns</field>
+    <field title="identifier">gridColumn</field>
+    <field title="groupAlias">Layout</field>
+    <field title="sorting">896</field>
+    <children>
+      <child alias="columns">
+        <field title="id">58</field>
+        <field title="pid">15</field>
+        <field title="sorting">128</field>
+        <field title="tstamp">1648718084</field>
+        <field title="alias">columns</field>
+        <field title="title">Columns</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="columns-xs">
+        <field title="id">59</field>
+        <field title="pid">15</field>
+        <field title="sorting">192</field>
+        <field title="tstamp">1648718084</field>
+        <field title="alias">columns-xs</field>
+        <field title="title">Columns &amp;#40;XS&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="columns-s">
+        <field title="id">60</field>
+        <field title="pid">15</field>
+        <field title="sorting">256</field>
+        <field title="tstamp">1648718084</field>
+        <field title="alias">columns-s</field>
+        <field title="title">Columns &amp;#40;S&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:14:"marketingToken";}</field>
+      </child>
+      <child alias="columns-m">
+        <field title="id">61</field>
+        <field title="pid">15</field>
+        <field title="sorting">320</field>
+        <field title="tstamp">1648718084</field>
+        <field title="alias">columns-m</field>
+        <field title="title">Columns &amp;#40;M&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="columns-l">
+        <field title="id">62</field>
+        <field title="pid">15</field>
+        <field title="sorting">384</field>
+        <field title="tstamp">1648718084</field>
+        <field title="alias">columns-l</field>
+        <field title="title">Columns &amp;#40;L&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="columns-xl">
+        <field title="id">63</field>
+        <field title="pid">15</field>
+        <field title="sorting">896</field>
+        <field title="tstamp">1648718084</field>
+        <field title="alias">columns-xl</field>
+        <field title="title">Columns &amp;#40;XL&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="gridOffset">
+    <field title="id">16</field>
+    <field title="tstamp">1579772003</field>
+    <field title="title">Grid-Offset</field>
+    <field title="identifier">gridOffset</field>
+    <field title="groupAlias">Layout</field>
+    <field title="sorting">1024</field>
+    <children>
+      <child alias="offset">
+        <field title="id">64</field>
+        <field title="pid">16</field>
+        <field title="sorting">64</field>
+        <field title="tstamp">1648718236</field>
+        <field title="alias">offset</field>
+        <field title="title">Offset</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="offset-xs">
+        <field title="id">65</field>
+        <field title="pid">16</field>
+        <field title="sorting">224</field>
+        <field title="tstamp">1648718236</field>
+        <field title="alias">offset-xs</field>
+        <field title="title">Offset &amp;#40;XS&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="offset-s">
+        <field title="id">66</field>
+        <field title="pid">16</field>
+        <field title="sorting">304</field>
+        <field title="tstamp">1648718236</field>
+        <field title="alias">offset-s</field>
+        <field title="title">Offset &amp;#40;S&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="offset-m">
+        <field title="id">67</field>
+        <field title="pid">16</field>
+        <field title="sorting">384</field>
+        <field title="tstamp">1648718236</field>
+        <field title="alias">offset-m</field>
+        <field title="title">Offset &amp;#40;M&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="offset-l">
+        <field title="id">68</field>
+        <field title="pid">16</field>
+        <field title="sorting">480</field>
+        <field title="tstamp">1648718236</field>
+        <field title="alias">offset-l</field>
+        <field title="title">Offset &amp;#40;L&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="offset-xl">
+        <field title="id">69</field>
+        <field title="pid">16</field>
+        <field title="sorting">576</field>
+        <field title="tstamp">1648718236</field>
+        <field title="alias">offset-xl</field>
+        <field title="title">Offset &amp;#40;XL&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="gridOrder">
+    <field title="id">17</field>
+    <field title="tstamp">1581583671</field>
+    <field title="title">Grid-Order</field>
+    <field title="identifier">gridOrder</field>
+    <field title="groupAlias">Layout</field>
+    <field title="sorting">1088</field>
+    <children>
+      <child alias="order">
+        <field title="id">70</field>
+        <field title="pid">17</field>
+        <field title="sorting">64</field>
+        <field title="tstamp">1648718297</field>
+        <field title="alias">order</field>
+        <field title="title">Order</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="order-xs">
+        <field title="id">71</field>
+        <field title="pid">17</field>
+        <field title="sorting">192</field>
+        <field title="tstamp">1648718297</field>
+        <field title="alias">order-xs</field>
+        <field title="title">Order &amp;#40;XS&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="order-s">
+        <field title="id">72</field>
+        <field title="pid">17</field>
+        <field title="sorting">320</field>
+        <field title="tstamp">1648718297</field>
+        <field title="alias">order-s</field>
+        <field title="title">Order &amp;#40;S&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="order-m">
+        <field title="id">73</field>
+        <field title="pid">17</field>
+        <field title="sorting">448</field>
+        <field title="tstamp">1648718297</field>
+        <field title="alias">order-m</field>
+        <field title="title">Order &amp;#40;M&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="order-l">
+        <field title="id">74</field>
+        <field title="pid">17</field>
+        <field title="sorting">576</field>
+        <field title="tstamp">1648718297</field>
+        <field title="alias">order-l</field>
+        <field title="title">Order &amp;#40;L&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="order-xl">
+        <field title="id">75</field>
+        <field title="pid">17</field>
+        <field title="sorting">704</field>
+        <field title="tstamp">1648718297</field>
+        <field title="alias">order-xl</field>
+        <field title="title">Order &amp;#40;XL&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="gridAlignment">
+    <field title="id">18</field>
+    <field title="tstamp">1579772003</field>
+    <field title="title">Grid-Alignment</field>
+    <field title="identifier">gridAlignment</field>
+    <field title="groupAlias">Layout</field>
+    <field title="sorting">1152</field>
+    <children>
+      <child alias="gridAlignmentAlignment">
+        <field title="id">80</field>
+        <field title="pid">18</field>
+        <field title="sorting">128</field>
+        <field title="tstamp">1648718434</field>
+        <field title="alias">gridAlignmentAlignment</field>
+        <field title="title">Alignment</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="gridAlignmentAlignmentXS">
+        <field title="id">81</field>
+        <field title="pid">18</field>
+        <field title="sorting">256</field>
+        <field title="tstamp">1648718435</field>
+        <field title="alias">gridAlignmentAlignmentXS</field>
+        <field title="title">Alignment &amp;#40;XS&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="gridAlignmentAlignmentS">
+        <field title="id">82</field>
+        <field title="pid">18</field>
+        <field title="sorting">384</field>
+        <field title="tstamp">1648718435</field>
+        <field title="alias">gridAlignmentAlignmentS</field>
+        <field title="title">Alignment &amp;#40;S&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="gridAlignmentAlignmentM">
+        <field title="id">83</field>
+        <field title="pid">18</field>
+        <field title="sorting">512</field>
+        <field title="tstamp">1648718435</field>
+        <field title="alias">gridAlignmentAlignmentM</field>
+        <field title="title">Alignment &amp;#40;M&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="gridAlignmentAlignmentL">
+        <field title="id">84</field>
+        <field title="pid">18</field>
+        <field title="sorting">640</field>
+        <field title="tstamp">1648718435</field>
+        <field title="alias">gridAlignmentAlignmentL</field>
+        <field title="title">Alignment &amp;#40;L&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="gridAlignmentAlignmentXL">
+        <field title="id">85</field>
+        <field title="pid">18</field>
+        <field title="sorting">768</field>
+        <field title="tstamp">1648718435</field>
+        <field title="alias">gridAlignmentAlignmentXL</field>
+        <field title="title">Alignment &amp;#40;XL&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="leftSpacing">
+    <field title="id">21</field>
+    <field title="tstamp">1580809739</field>
+    <field title="title">Left-Spacing</field>
+    <field title="identifier">leftSpacing</field>
+    <field title="groupAlias">Layout</field>
+    <field title="sorting">1948</field>
+    <children>
+      <child alias="left-spacing">
+        <field title="id">96</field>
+        <field title="pid">21</field>
+        <field title="sorting">128</field>
+        <field title="tstamp">1648718979</field>
+        <field title="alias">left-spacing</field>
+        <field title="title">Spacing</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="left-spacing-xs">
+        <field title="id">97</field>
+        <field title="pid">21</field>
+        <field title="sorting">160</field>
+        <field title="tstamp">1648718979</field>
+        <field title="alias">left-spacing-xs</field>
+        <field title="title">Spacing &amp;#40;XS&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="left-spacing-s">
+        <field title="id">98</field>
+        <field title="pid">21</field>
+        <field title="sorting">288</field>
+        <field title="tstamp">1648718979</field>
+        <field title="alias">left-spacing-s</field>
+        <field title="title">Spacing &amp;#40;S&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="left-spacing-m">
+        <field title="id">99</field>
+        <field title="pid">21</field>
+        <field title="sorting">416</field>
+        <field title="tstamp">1648718979</field>
+        <field title="alias">left-spacing-m</field>
+        <field title="title">Spacing &amp;#40;M&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="left-spacing-l">
+        <field title="id">100</field>
+        <field title="pid">21</field>
+        <field title="sorting">544</field>
+        <field title="tstamp">1648718979</field>
+        <field title="alias">left-spacing-l</field>
+        <field title="title">Spacing &amp;#40;L&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="left-spacing-xl">
+        <field title="id">101</field>
+        <field title="pid">21</field>
+        <field title="sorting">672</field>
+        <field title="tstamp">1648718979</field>
+        <field title="alias">left-spacing-xl</field>
+        <field title="title">Spacing &amp;#40;XL&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="rightSpacing">
+    <field title="id">22</field>
+    <field title="tstamp">1580809892</field>
+    <field title="title">Right-Spacing</field>
+    <field title="identifier">rightSpacing</field>
+    <field title="groupAlias">Layout</field>
+    <field title="sorting">1974</field>
+    <children>
+      <child alias="right-spacing">
+        <field title="id">102</field>
+        <field title="pid">22</field>
+        <field title="sorting">128</field>
+        <field title="tstamp">1648719000</field>
+        <field title="alias">right-spacing</field>
+        <field title="title">Spacing</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="right-spacing-xs">
+        <field title="id">103</field>
+        <field title="pid">22</field>
+        <field title="sorting">160</field>
+        <field title="tstamp">1648719000</field>
+        <field title="alias">right-spacing-xs</field>
+        <field title="title">Spacing &amp;#40;XS&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="right-spacing-s">
+        <field title="id">104</field>
+        <field title="pid">22</field>
+        <field title="sorting">288</field>
+        <field title="tstamp">1648719000</field>
+        <field title="alias">right-spacing-s</field>
+        <field title="title">Spacing &amp;#40;S&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="right-spacing-m">
+        <field title="id">105</field>
+        <field title="pid">22</field>
+        <field title="sorting">416</field>
+        <field title="tstamp">1648719000</field>
+        <field title="alias">right-spacing-m</field>
+        <field title="title">Spacing &amp;#40;M&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="right-spacing-l">
+        <field title="id">106</field>
+        <field title="pid">22</field>
+        <field title="sorting">544</field>
+        <field title="tstamp">1648719000</field>
+        <field title="alias">right-spacing-l</field>
+        <field title="title">Spacing &amp;#40;L&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="right-spacing-xl">
+        <field title="id">107</field>
+        <field title="pid">22</field>
+        <field title="sorting">672</field>
+        <field title="tstamp">1648719000</field>
+        <field title="alias">right-spacing-xl</field>
+        <field title="title">Spacing &amp;#40;XL&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="spacing">
+    <field title="id">23</field>
+    <field title="tstamp">1581506592</field>
+    <field title="title">Spacing</field>
+    <field title="identifier">spacing</field>
+    <field title="groupAlias">Layout</field>
+    <field title="sorting">1980</field>
+    <children>
+      <child alias="topSpacing">
+        <field title="id">108</field>
+        <field title="pid">23</field>
+        <field title="sorting">128</field>
+        <field title="tstamp">1648719048</field>
+        <field title="alias">topSpacing</field>
+        <field title="title">Top-Spacing</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+      <child alias="bottomSpacing">
+        <field title="id">109</field>
+        <field title="pid">23</field>
+        <field title="sorting">192</field>
+        <field title="tstamp">1648719057</field>
+        <field title="alias">bottomSpacing</field>
+        <field title="title">Bottom-Spacing</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendRealEstateExposeModule">1</field>
+        <field title="realEstateExposeModules">a:1:{i:0;s:7:"similar";}</field>
+      </child>
+    </children>
+  </archive>
+</archives>
