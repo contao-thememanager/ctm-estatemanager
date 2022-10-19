@@ -1,0 +1,60 @@
+.object-expose-content > .inside {
+  display: flex;
+  flex-direction: column;
+}
+
+.object-expose-main {
+  order: 10;
+}
+
+.object-expose-right,
+.object-expose-left {
+  order: 15;
+}
+
+.right-column-order-first .object-expose-right {
+  order: 3;
+}
+
+.left-column-order-first .object-expose-left {
+  order: 3;
+}
+
+@include media-breakpoint($layout-column-small-break) {
+
+  .object-expose-content > .inside {
+    flex-direction: row;
+  }
+
+  .object-expose-main {
+    width: 100%;
+  }
+
+  .layout-content-1 .object-expose-main {
+    width: calc(100% - var(--lyt-col-wdth) - var(--lyt-col-gtr));
+  }
+
+  .layout-content-2 .object-expose-main {
+    width: calc(100% - ((var(--lyt-col-wdth) - var(--lyt-col-gtr)) * 2));;
+  }
+
+  .object-expose-left {
+    order: 5;
+    width: var(--lyt-col-wdth);
+    margin-right: var(--lyt-col-gtr);
+  }
+
+  .left-column-order-first .object-expose-left {
+    order: 5;
+  }
+
+  .object-expose-right {
+    order: 15;
+    width: var(--lyt-col-wdth);
+    margin-left: var(--lyt-col-gtr);
+  }
+
+  .right-column-order-first .object-expose-right {
+    order: 15;
+  }
+}
