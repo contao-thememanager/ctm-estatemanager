@@ -18,14 +18,13 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^7.4 || ^8.0",
         "contao/core-bundle": "^4.13",
-        "contao-estatemanager/core": "^1.1",
-        "contao-thememanager/core": "^2.0",
-        "oveleon/contao-component-style-manager": "^3.0"
+        "contao-estatemanager/core": "^1.0 || ^2.0",
+        "contao-thememanager/core": "^1.5"
     },
     "require-dev": {
-        "contao/manager-plugin": "^2.0"
+        "contao/manager-plugin": "^2.3.1"
     },
     "conflict": {
         "contao/core": "*",
