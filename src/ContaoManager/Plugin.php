@@ -3,9 +3,12 @@
 declare(strict_types=1);
 
 /*
- * This file is part of Contao ThemeManager RealEstate Plugin.
+ * This file is part of Contao ThemeManager Contao EstateManager.
  *
- * (c) https://www.oveleon.de/
+ * @package     ctm-estatemanager
+ * @license     MIT
+ * @author      Daniele Sciannimanica <https://github.com/doishub>
+ * @copyright   Oveleon               <https://www.oveleon.de/>
  */
 
 namespace ContaoThemeManager\EstateManager\ContaoManager;
@@ -29,8 +32,13 @@ class Plugin implements BundlePluginInterface
     {
         return [
             BundleConfig::create(ContaoThemeManagerEstateManager::class)
-                ->setLoadAfter([ContaoCoreBundle::class, ContaoThemeManagerCore::class, EstateManager::class, EstateManagerProject::class, ContaoComponentStyleManager::class])
-                ->setReplace(['ctm-estatemanager']),
+                ->setLoadAfter([
+                    ContaoCoreBundle::class,
+                    ContaoThemeManagerCore::class,
+                    EstateManager::class,
+                    EstateManagerProject::class,
+                    ContaoComponentStyleManager::class
+                ])->setReplace(['ctm-estatemanager']),
         ];
     }
 }

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archives>
+  <archive identifier="headline">
+    <field title="id">3</field>
+    <field title="tstamp">1579862691</field>
+    <field title="title">Headlines</field>
+    <field title="identifier">headline</field>
+    <field title="groupAlias">Design</field>
+    <field title="sorting">130</field>
+    <children>
+      <child alias="spacingGlobal">
+        <field title="id">10</field>
+        <field title="pid">3</field>
+        <field title="sorting">64</field>
+        <field title="tstamp">1648713580</field>
+        <field title="alias">spacingGlobal</field>
+        <field title="title">Global Spacing &amp;#40;activates the Responsive behaviour&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+      </child>
+      <child alias="spacing">
+        <field title="id">11</field>
+        <field title="pid">3</field>
+        <field title="sorting">128</field>
+        <field title="tstamp">1648562615</field>
+        <field title="alias">spacing</field>
+        <field title="title">Spacing</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+      </child>
+      <child alias="spacingXS">
+        <field title="id">12</field>
+        <field title="pid">3</field>
+        <field title="sorting">256</field>
+        <field title="tstamp">1648562615</field>
+        <field title="alias">spacingXS</field>
+        <field title="title">Spacing &amp;#40;XS&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+      </child>
+      <child alias="spacingS">
+        <field title="id">13</field>
+        <field title="pid">3</field>
+        <field title="sorting">384</field>
+        <field title="tstamp">1648562615</field>
+        <field title="alias">spacingS</field>
+        <field title="title">Spacing &amp;#40;S&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+      </child>
+      <child alias="spacingM">
+        <field title="id">14</field>
+        <field title="pid">3</field>
+        <field title="sorting">512</field>
+        <field title="tstamp">1648562615</field>
+        <field title="alias">spacingM</field>
+        <field title="title">Spacing &amp;#40;M&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+      </child>
+      <child alias="spacingL">
+        <field title="id">15</field>
+        <field title="pid">3</field>
+        <field title="sorting">640</field>
+        <field title="tstamp">1648562615</field>
+        <field title="alias">spacingL</field>
+        <field title="title">Spacing &amp;#40;L&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+      </child>
+      <child alias="spacingXL">
+        <field title="id">16</field>
+        <field title="pid">3</field>
+        <field title="sorting">768</field>
+        <field title="tstamp">1648562615</field>
+        <field title="alias">spacingXL</field>
+        <field title="title">Spacing &amp;#40;XL&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+      </child>
+      <child alias="alignment">
+        <field title="id">17</field>
+        <field title="pid">3</field>
+        <field title="sorting">832</field>
+        <field title="tstamp">1648717194</field>
+        <field title="alias">alignment</field>
+        <field title="title">Alignment</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+        <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
+      </child>
+      <child alias="alignment-xs">
+        <field title="id">18</field>
+        <field title="pid">3</field>
+        <field title="sorting">864</field>
+        <field title="tstamp">1648717194</field>
+        <field title="alias">alignment-xs</field>
+        <field title="title">Alignment &amp;#40;XS&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+        <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
+      </child>
+      <child alias="alignment-s">
+        <field title="id">19</field>
+        <field title="pid">3</field>
+        <field title="sorting">880</field>
+        <field title="tstamp">1648717194</field>
+        <field title="alias">alignment-s</field>
+        <field title="title">Alignment &amp;#40;S&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+        <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
+      </child>
+      <child alias="alignment-m">
+        <field title="id">20</field>
+        <field title="pid">3</field>
+        <field title="sorting">888</field>
+        <field title="tstamp">1648717194</field>
+        <field title="alias">alignment-m</field>
+        <field title="title">Alignment &amp;#40;M&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+        <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
+      </child>
+      <child alias="alignment-l">
+        <field title="id">21</field>
+        <field title="pid">3</field>
+        <field title="sorting">892</field>
+        <field title="tstamp">1648717194</field>
+        <field title="alias">alignment-l</field>
+        <field title="title">Alignment &amp;#40;L&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+        <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
+      </child>
+      <child alias="alignment-xl">
+        <field title="id">22</field>
+        <field title="pid">3</field>
+        <field title="sorting">894</field>
+        <field title="tstamp">1648717194</field>
+        <field title="alias">alignment-xl</field>
+        <field title="title">Alignment &amp;#40;XL&amp;#41;</field>
+        <field title="cssClasses">a:0:{}</field>
+        <field title="contentElements">a:1:{i:0;s:16:"realEstateFilter";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:27:"realEstateContactPersonList";i:1;s:22:"realEstateLocationList";}</field>
+        <field title="realEstateExposeModules">a:16:{i:0;s:5:"title";i:1;s:7:"address";i:2;s:7:"details";i:3;s:11:"mainDetails";i:4;s:14:"mainAttributes";i:5;s:9:"mainPrice";i:6;s:8:"mainArea";i:7;s:5:"texts";i:8;s:9:"fieldList";i:9;s:11:"statusToken";i:10;s:14:"marketingToken";i:11;s:7:"gallery";i:12;s:13:"contactPerson";i:13;s:11:"enquiryForm";i:14;s:5:"share";i:15;s:5:"print";}</field>
+      </child>
+    </children>
+  </archive>
+</archives>
