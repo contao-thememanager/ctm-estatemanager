@@ -21,7 +21,8 @@
         "php": "^7.4 || ^8.0",
         "contao/core-bundle": "^4.13",
         "contao-estatemanager/core": "^1.0 || ^2.0",
-        "contao-thememanager/core": "^1.5"
+        "contao-thememanager/core": "^1.5",
+        "oveleon/contao-component-style-manager": "^3.0"
     },
     "require-dev": {
         "contao/manager-plugin": "^2.3.1"
