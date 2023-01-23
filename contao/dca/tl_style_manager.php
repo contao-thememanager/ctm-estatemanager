@@ -51,7 +51,7 @@ $GLOBALS['TL_DCA']['tl_style_manager']['fields']['realEstateFilterItems'] = [
     'label'            => &$GLOBALS['TL_LANG']['tl_style_manager']['realEstateFilterItems'],
     'inputType'        => 'checkbox',
     'options_callback' => ['tl_style_manager_estatemanager', 'getRealEstateFilterItems'],
-    'reference'        => $GLOBALS['TL_LANG']['RFI'] ?? $GLOBALS['TL_LANG']['CEM_RFI'], // BC-Layer for EM < 2.0
+    'reference'        => $GLOBALS['TL_LANG']['RFI'] ?? ($GLOBALS['TL_LANG']['CEM_RFI'] ?? null), // BC-Layer for EM < 2.0
     'eval'             => ['multiple'=>true, 'mandatory'=>true, 'tl_class'=>'w50 clr'],
     'sql'              => "blob NULL"
 ];
@@ -96,7 +96,12 @@ class tl_style_manager_estatemanager extends Backend
      */
     public function getRealEstateFilterItems()
     {
-        return array_keys($GLOBALS['TL_RFI'] ?? $GLOBALS['CEM_RFI']); // BC-Layer for EM < 2.0
+        if (isset($GLOBALS['TL_RFI']) || isset($GLOBALS['CEM_RFI']))
+        {
+            return array_keys($GLOBALS['TL_RFI'] ?? $GLOBALS['CEM_RFI']); // BC-Layer for EM < 2.0
+        }
+
+        return []; // BC-Layer for EM < 2.0
     }
 
     /**
